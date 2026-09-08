@@ -1712,6 +1712,7 @@
       <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
+      <pj:prisjakt_id>13969494</pj:prisjakt_id>
       <g:item_group_id>shopify-product-10005797142856</g:item_group_id>
       <g:gtin>6975472770963</g:gtin>
       <g:shipping_label>standardpaket</g:shipping_label>
@@ -2110,6 +2111,7 @@
       <g:item_group_id>shopify-product-10013595795784</g:item_group_id>
       <g:gtin>6973137270254</g:gtin>
       <g:mpn>RS047</g:mpn>
+      <pj:prisjakt_id>11637378</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2.6 kg</g:shipping_weight>
     </item>
@@ -2560,6 +2562,7 @@
       <g:item_group_id>shopify-product-10013598744904</g:item_group_id>
       <g:gtin>6977068960536</g:gtin>
       <g:mpn>CP107</g:mpn>
+      <pj:prisjakt_id>15129150</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.15 kg</g:shipping_weight>
     </item>
@@ -2866,6 +2869,7 @@
       <g:item_group_id>shopify-product-10013600973128</g:item_group_id>
       <g:gtin>8717496873101</g:gtin>
       <g:mpn>G.00320</g:mpn>
+      <pj:prisjakt_id>13471046</pj:prisjakt_id>
       <g:shipping_label>ej_klassificerad</g:shipping_label>
       <g:shipping_weight>16 kg</g:shipping_weight>
     </item>
@@ -3389,6 +3393,7 @@
       <g:item_group_id>shopify-product-10013604774216</g:item_group_id>
       <g:gtin>6430082360374</g:gtin>
       <g:mpn>SC3WB70A</g:mpn>
+      <pj:prisjakt_id>16583203</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.42 kg</g:shipping_weight>
     </item>
@@ -3443,6 +3448,7 @@
       <g:item_group_id>shopify-product-10013604970824</g:item_group_id>
       <g:gtin>6977068960062</g:gtin>
       <g:mpn>CP101</g:mpn>
+      <pj:prisjakt_id>15129166</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>6 kg</g:shipping_weight>
     </item>
@@ -3856,6 +3862,7 @@
       <g:item_group_id>shopify-product-10180634706248</g:item_group_id>
       <g:gtin>6430082360503</g:gtin>
       <g:mpn>SC3ULT-EU-US</g:mpn>
+      <pj:prisjakt_id>16447459</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>13 kg</g:shipping_weight>
     </item>
@@ -3892,6 +3899,7 @@
       <g:item_group_id>shopify-product-10180634739016</g:item_group_id>
       <g:gtin>6430082360534</g:gtin>
       <g:mpn>SCVALO-SC3-LE</g:mpn>
+      <pj:prisjakt_id>15461211</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2.1 kg</g:shipping_weight>
     </item>
