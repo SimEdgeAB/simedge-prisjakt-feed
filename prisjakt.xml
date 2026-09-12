@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SIMEDGE – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-09-10T12:59:49.628Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-09-12T16:14:51.972Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -388,7 +388,7 @@
       <g:item_group_id>shopify-product-9994314907976</g:item_group_id>
       <g:gtin>8059772410205</g:gtin>
       <g:mpn>00210-01-01-YEL</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>13 kg</g:shipping_weight>
     </item>
     <item>
@@ -415,7 +415,7 @@
       <g:item_group_id>shopify-product-9994314907976</g:item_group_id>
       <g:gtin>8059772411196</g:gtin>
       <g:mpn>00210-01-01-RBK</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>13 kg</g:shipping_weight>
     </item>
     <item>
@@ -443,7 +443,7 @@
       <g:item_group_id>shopify-product-9994314907976</g:item_group_id>
       <g:gtin>8059772410199</g:gtin>
       <g:mpn>00210-01-01-BLK</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>13 kg</g:shipping_weight>
     </item>
     <item>
@@ -469,7 +469,7 @@
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994472653128</g:item_group_id>
       <g:gtin>8059772410168</g:gtin>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>13 kg</g:shipping_weight>
     </item>
     <item>
@@ -495,7 +495,7 @@
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994472653128</g:item_group_id>
       <g:gtin>8059772411202</g:gtin>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>13 kg</g:shipping_weight>
     </item>
     <item>
@@ -521,7 +521,7 @@
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994472653128</g:item_group_id>
       <g:gtin>8059772410151</g:gtin>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>13 kg</g:shipping_weight>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <g:item_group_id>shopify-product-9994542219592</g:item_group_id>
       <g:gtin>8059772410243</g:gtin>
       <g:mpn>00212-01-03-BLU</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>15 kg</g:shipping_weight>
     </item>
     <item>
@@ -574,7 +574,7 @@
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994542219592</g:item_group_id>
       <g:gtin>8059772411219</g:gtin>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>15 kg</g:shipping_weight>
     </item>
     <item>
@@ -601,7 +601,7 @@
       <g:item_group_id>shopify-product-9994542219592</g:item_group_id>
       <g:gtin>8059772410236</g:gtin>
       <g:mpn>00212-01-03-BLK</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>15 kg</g:shipping_weight>
     </item>
     <item>
@@ -626,7 +626,7 @@
       <g:condition>new</g:condition>
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994914365768</g:item_group_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>31 kg</g:shipping_weight>
     </item>
     <item>
@@ -651,7 +651,7 @@
       <g:condition>new</g:condition>
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994917347656</g:item_group_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>32 kg</g:shipping_weight>
     </item>
     <item>
@@ -676,7 +676,7 @@
       <g:condition>new</g:condition>
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994919838024</g:item_group_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>31 kg</g:shipping_weight>
     </item>
     <item>
@@ -701,7 +701,7 @@
       <g:condition>new</g:condition>
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994926653768</g:item_group_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>22 kg</g:shipping_weight>
     </item>
     <item>
@@ -727,7 +727,7 @@
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994943594824</g:item_group_id>
       <g:gtin>8059772411967</g:gtin>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>20 kg</g:shipping_weight>
     </item>
     <item>
@@ -942,7 +942,7 @@
       <g:item_group_id>shopify-product-9997007323464</g:item_group_id>
       <g:gtin>8059772411264</g:gtin>
       <g:mpn>00105-12-00</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>9.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -961,7 +961,7 @@
       <g:item_group_id>shopify-product-9997008666952</g:item_group_id>
       <g:gtin>8059772411271</g:gtin>
       <g:mpn>00105-13-00</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>13.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -979,7 +979,7 @@
       <g:item_group_id>shopify-product-9997010829640</g:item_group_id>
       <g:gtin>8059772411288</g:gtin>
       <g:mpn>00105-14-00</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -998,7 +998,7 @@
       <g:item_group_id>shopify-product-9997011353928</g:item_group_id>
       <g:gtin>8059772411325</g:gtin>
       <g:mpn>00105-17-00</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -1016,7 +1016,7 @@
       <g:condition>new</g:condition>
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9997011681608</g:item_group_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>15 kg</g:shipping_weight>
     </item>
     <item>
@@ -1035,7 +1035,7 @@
       <g:item_group_id>shopify-product-9997015318856</g:item_group_id>
       <g:gtin>8059772411318</g:gtin>
       <g:mpn>00105-16-00</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>4 kg</g:shipping_weight>
     </item>
     <item>
@@ -1055,7 +1055,7 @@
       <g:item_group_id>shopify-product-9997046776136</g:item_group_id>
       <g:gtin>8059772411349</g:gtin>
       <g:mpn>00106-04-00</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>10.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -1452,7 +1452,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/18Nm_6..webp?v=1775387920</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/18Nm_4.webp?v=1775387920</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/imagic_Alpha_EVO_Pro.webp?v=1783940087</g:additional_image_link>
-      <g:price>9590.00 SEK</g:price>
+      <g:price>9495.00 SEK</g:price>
       <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -1668,7 +1668,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/3_4.webp?v=1775789331</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/2_2_1_0f357f55-d542-46cd-a800-b8f4aa0562f5.webp?v=1775789337</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/4_2_1.webp?v=1775790215</g:additional_image_link>
-      <g:price>5090.00 SEK</g:price>
+      <g:price>4995.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -1734,7 +1734,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/4_5.webp?v=1775911251</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/5_1_b38ca88b-bea9-4d98-9c9e-ad87b339cb21.webp?v=1775911255</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/3_8.webp?v=1775911260</g:additional_image_link>
-      <g:price>3390.00 SEK</g:price>
+      <g:price>3295.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -2297,7 +2297,7 @@
       <g:description>MB-S är det officiella sidomonteringsfästet för Simagic Alpha EVO-serien — CNC-bearbetad aluminium med svartanodiserad finish för noll flex och maximal stabilitet i riggens sidoprofiler.Flera justeringspunkter möjliggör enkel finjustering av höjd och vinkel för en ergonomiskt optimal körposition. Konstruktionen hanterar höga FFB-nivåer utan mikrorörelser — direkt och exakt kraftöverföring varje gång.Passar Alpha EVO Sport, Alpha EVO och Alpha EVO Pro. Inkluderar monteringsskruvar och justeringsbrickor.</g:description>
       <g:link>https://simedge.se/products/simagic-evo-side-mounting-bracket?variant=52862068490568</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MB-S.webp?v=1775692595</g:image_link>
-      <g:price>405.00 SEK</g:price>
+      <g:price>395.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -2345,7 +2345,7 @@
       <g:gtin>8033280400415</g:gtin>
       <g:mpn>008016GMRBM</g:mpn>
       <pj:prisjakt_id>5838951</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>8 kg</g:shipping_weight>
     </item>
     <item>
@@ -2365,7 +2365,7 @@
       <g:gtin>8033280359386</g:gtin>
       <g:mpn>008010GNR</g:mpn>
       <pj:prisjakt_id>7272100</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>7 kg</g:shipping_weight>
     </item>
     <item>
@@ -2385,7 +2385,7 @@
       <g:gtin>8033280309503</g:gtin>
       <g:mpn>008009GNR</g:mpn>
       <pj:prisjakt_id>5838952</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>7 kg</g:shipping_weight>
     </item>
     <item>
@@ -2541,14 +2541,14 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Playseat_-Challenge-DD---F1_-Edition_0004_25073845_PLAYSEAT_NEW_BACK_CHALLENGE_DD-copy.png?v=1786322519</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Playseat_-Challenge-DD---F1_-Edition_0000_25073845_PLAYSEAT_NEW_FRONT_CHALLENGE_DD_WITHOUT_STEERING_WHEEL_PEDALS-copy.png?v=1786322519</g:additional_image_link>
       <g:price>4599.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013579149640</g:item_group_id>
       <g:gtin>8717496873279</g:gtin>
       <g:mpn>FO.00336</g:mpn>
       <pj:prisjakt_id>15914027</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -2591,7 +2591,7 @@
       <g:item_group_id>shopify-product-10013595074888</g:item_group_id>
       <g:gtin>8717496873002</g:gtin>
       <g:mpn>PFI.00310</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>50 kg</g:shipping_weight>
     </item>
     <item>
@@ -2614,7 +2614,7 @@
       <g:gtin>8717496873255</g:gtin>
       <g:mpn>FO.00334</g:mpn>
       <pj:prisjakt_id>13944024</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>23 kg</g:shipping_weight>
     </item>
     <item>
@@ -2628,7 +2628,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-70mm-quick-release-adapter-rs07-wheel-installation.webp?v=1786550011</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-70mm-quick-release-adapter-rs07-wheelbase-installation.webp?v=1786550011</g:additional_image_link>
       <g:price>699.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595369800</g:item_group_id>
@@ -3035,7 +3035,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-ks-pro-gt-wheel-front-left-angle.webp?v=1776520962</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-ks-pro-gt-wheel-back.webp?v=1776520942</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-ks-pro-gt-wheel-back-right-angle.webp?v=1776520925</g:additional_image_link>
-      <g:price>4099.00 SEK</g:price>
+      <g:price>4095.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
@@ -3357,7 +3357,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/2097515691.webp?v=1776183083</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/2097515694.webp?v=1776183083</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/74c04c8d6cd3f2522b48b41d89be63d143c8760a.webp?v=1776183083</g:additional_image_link>
-      <g:price>8999.00 SEK</g:price>
+      <g:price>8990.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Conspit</g:brand>
@@ -3595,7 +3595,7 @@
       <g:gtin>8717496872975</g:gtin>
       <g:mpn>RAP.00304</g:mpn>
       <pj:prisjakt_id>5949372</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16 kg</g:shipping_weight>
     </item>
     <item>
@@ -3623,7 +3623,7 @@
       <g:gtin>8717496873033</g:gtin>
       <g:mpn>RAP.00314</g:mpn>
       <pj:prisjakt_id>5949372</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16 kg</g:shipping_weight>
     </item>
     <item>
@@ -3646,7 +3646,7 @@
       <g:gtin>8717496871978</g:gtin>
       <g:mpn>RSP.00110</g:mpn>
       <pj:prisjakt_id>5306012</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>38 kg</g:shipping_weight>
     </item>
     <item>
@@ -3670,7 +3670,7 @@
       <g:gtin>8717496873101</g:gtin>
       <g:mpn>G.00320</g:mpn>
       <pj:prisjakt_id>13471046</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16 kg</g:shipping_weight>
     </item>
     <item>
@@ -3713,7 +3713,7 @@
       <g:gtin>8717496872593</g:gtin>
       <g:mpn>PFI.00234</g:mpn>
       <pj:prisjakt_id>5949365</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>50 kg</g:shipping_weight>
     </item>
     <item>
@@ -3740,7 +3740,7 @@
       <g:gtin>8717496873248</g:gtin>
       <g:mpn>PFI.00332</g:mpn>
       <pj:prisjakt_id>13540905</pj:prisjakt_id>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>50 kg</g:shipping_weight>
     </item>
     <item>
@@ -4078,7 +4078,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZAMTQ-3.webp?v=1776623819</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZAMTQ-4.webp?v=1776623819</g:additional_image_link>
       <g:price>2599.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603889480</g:item_group_id>
@@ -4257,7 +4257,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SC3-3_1.webp?v=1776168019</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SC3SPORT-3-1.webp?v=1776168025</g:additional_image_link>
       <g:price>14799.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10013604577608</g:item_group_id>
@@ -4661,7 +4661,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-sport-steering-wheel-angle.webp?v=1780958904</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-sport-steering-wheel-angle-display.webp?v=1780958936</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-sport-steering-wheel-rear.webp?v=1780958958</g:additional_image_link>
-      <g:price>4599.00 SEK</g:price>
+      <g:price>4595.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -4685,7 +4685,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-gt-steering-wheel-angle_webp.webp?v=1780960138</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-gt-steering-wheel-angle-display_webp.webp?v=1780960120</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-gt-steering-wheel-rear_webp.webp?v=1780960181</g:additional_image_link>
-      <g:price>4799.00 SEK</g:price>
+      <g:price>4795.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -4711,7 +4711,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-formula-steering-wheel-rear_webp.webp?v=1780969229</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-formula-steering-wheel-rear-angle_webp.webp?v=1780969228</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-formula-steering-wheel-rear-detail_webp.webp?v=1780969229</g:additional_image_link>
-      <g:price>6899.00 SEK</g:price>
+      <g:price>6895.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -4733,7 +4733,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MagicDash_4-Front_webp.webp?v=1781016672</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MagicDash_4-Side_Webp.webp?v=1781016681</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MagicDash_4-Rear_Webp.webp?v=1781016690</g:additional_image_link>
-      <g:price>2799.00 SEK</g:price>
+      <g:price>2795.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -4888,7 +4888,7 @@
       <g:item_group_id>shopify-product-10179842441544</g:item_group_id>
       <g:gtin>8059772410618</g:gtin>
       <g:mpn>00316-01-00</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>5.5 kg</g:shipping_weight>
     </item>
     <item>
@@ -4904,7 +4904,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Simucube3UltimateWheelBase-SimEdge-3.webp?v=1785630068</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Simucube3UltimateWheelBase-SimEdge-4.webp?v=1785630067</g:additional_image_link>
       <g:price>37899.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10180634706248</g:item_group_id>
@@ -4990,56 +4990,6 @@
       <g:shipping_weight>1.2 kg</g:shipping_weight>
     </item>
     <item>
-      <g:id>shopify-variant-53646288027976</g:id>
-      <g:title>Rexing Mayaris 2 – 4 paddlar</g:title>
-      <g:product_type>Simracing &gt; Rattar</g:product_type>
-      <g:google_product_category>543591</g:google_product_category>
-      <g:description>Rexing Mayaris 2 är en handbyggd formularatt i full kolfiber för Windows-PC, med 290 mm diameter, 5-tums touchskärm i 854 × 480, 17 konfigurerbara RGB-LED och totalt 123 tillgängliga inputs. Tio RGB-belysta knappar, sex tumencoders, två multiswitchar och tre OLED-skärmar ger snabb kontroll utan att släppa greppet.Magnetiska växlingspaddlar och analoga kopplingspaddlar använder Hall-sensorer. Aluminiumhubben har 50,8 och 70 mm hålbild för kompatibla rattbaser och quick releases. Ratten ansluts separat till PC via den medföljande USB-spiralkabeln; basspecifik quick release ingår inte.</g:description>
-      <g:link>https://simedge.se/products/rexing-mayaris-2-formula-wheel?variant=53646288027976</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-2.jpg?v=1785859259</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-8.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-3.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-10.jpg?v=1785859260</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-6.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-1.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-7.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-4.jpg?v=1785859258</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-9.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-5.jpg?v=1785859259</g:additional_image_link>
-      <g:price>18990.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Rexing</g:brand>
-      <g:item_group_id>shopify-product-10182695223624</g:item_group_id>
-      <g:shipping_label>standardpaket</g:shipping_label>
-      <g:shipping_weight>1.15 kg</g:shipping_weight>
-    </item>
-    <item>
-      <g:id>shopify-variant-53646289109320</g:id>
-      <g:title>Rexing Mayaris 2 – 6 paddlar – extra push-pull</g:title>
-      <g:product_type>Simracing &gt; Rattar</g:product_type>
-      <g:google_product_category>543591</g:google_product_category>
-      <g:description>Rexing Mayaris 2 är en handbyggd formularatt i full kolfiber för Windows-PC, med 290 mm diameter, 5-tums touchskärm i 854 × 480, 17 konfigurerbara RGB-LED och totalt 123 tillgängliga inputs. Tio RGB-belysta knappar, sex tumencoders, två multiswitchar och tre OLED-skärmar ger snabb kontroll utan att släppa greppet.Magnetiska växlingspaddlar och analoga kopplingspaddlar använder Hall-sensorer. Aluminiumhubben har 50,8 och 70 mm hålbild för kompatibla rattbaser och quick releases. Ratten ansluts separat till PC via den medföljande USB-spiralkabeln; basspecifik quick release ingår inte.</g:description>
-      <g:link>https://simedge.se/products/rexing-mayaris-2-formula-wheel?variant=53646289109320</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-2.jpg?v=1785859259</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-8.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-3.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-10.jpg?v=1785859260</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-6.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-1.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-7.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-4.jpg?v=1785859258</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-9.jpg?v=1785859259</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Mayaris_2-5.jpg?v=1785859259</g:additional_image_link>
-      <g:price>20590.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Rexing</g:brand>
-      <g:item_group_id>shopify-product-10182695223624</g:item_group_id>
-      <g:shipping_label>standardpaket</g:shipping_label>
-      <g:shipping_weight>1.15 kg</g:shipping_weight>
-    </item>
-    <item>
       <g:id>shopify-variant-53651386696008</g:id>
       <g:title>Simagic Alpha EVO Sport 9 Nm</g:title>
       <g:product_type>Simracing &gt; Rattbaser</g:product_type>
@@ -5056,7 +5006,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EVO-PRODUCT5.jpg?v=1785936999</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SHOPIFY_EVO_EDM-2.png?v=1785937000</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/9Nm_QR-A-1.png?v=1785936999</g:additional_image_link>
-      <g:price>5495.00 SEK</g:price>
+      <g:price>5490.00 SEK</g:price>
       <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -5340,7 +5290,7 @@
       <g:item_group_id>shopify-product-10200463966536</g:item_group_id>
       <g:gtin>4251442514129</g:gtin>
       <g:mpn>NC-SR-AC-015</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
     </item>
     <item>
@@ -8105,7 +8055,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-gt-haptikmodul-monterad.webp?v=1788891725</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-gt-tre-pedaler.webp?v=1788891725</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-aps-stromforsorjning-for-p-hpr-gt.webp?v=1788891725</g:additional_image_link>
-      <g:price>545.00 SEK</g:price>
+      <g:price>649.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
@@ -8127,14 +8077,14 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-haptikmodul-andplatta.webp?v=1788891726</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-haptikmodul-monteringssida.webp?v=1788891726</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-haptikmoduler-monterade-pa-pedaler.webp?v=1788891726</g:additional_image_link>
-      <g:price>685.00 SEK</g:price>
+      <g:price>695.00 SEK</g:price>
       <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10273259749704</g:item_group_id>
       <g:gtin>6975472771007</g:gtin>
       <g:mpn>SMG-AC-HPR</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.3 kg</g:shipping_weight>
     </item>
   </channel>
