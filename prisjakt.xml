@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SIMEDGE – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-09-14T17:10:10.530Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-09-14T18:07:14.918Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -1012,7 +1012,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/FREE_SINGLE_2.webp?v=1775152826</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/FREE_SINGLE_3.webp?v=1775152855</g:additional_image_link>
       <g:price>4590.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9997011681608</g:item_group_id>
@@ -2515,7 +2515,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/nitro-concepts-immersion-metahaptics-05.webp?v=1786710055</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/nitro-concepts-immersion-metahaptics-06-transparent.png?v=1786757939</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/nitro-concepts-immersion-metahaptics-07-transparent.png?v=1786757939</g:additional_image_link>
-      <g:price>11999.00 SEK</g:price>
+      <g:price>11995.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Nitro Concepts</g:brand>
@@ -4301,12 +4301,12 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EXTENSION-3.webp?v=1776350403</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EXTENSION-2.webp?v=1776350403</g:additional_image_link>
       <g:price>2249.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10013604741448</g:item_group_id>
       <g:gtin>6430082360381</g:gtin>
-      <g:mpn>SCSEKIT</g:mpn>
+      <g:mpn>SC3SEKIT</g:mpn>
       <pj:prisjakt_id>16536829</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.06 kg</g:shipping_weight>
