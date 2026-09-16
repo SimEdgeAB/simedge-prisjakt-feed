@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SIMEDGE – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-09-16T14:18:42.854Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-09-16T14:19:36.139Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -3783,6 +3783,28 @@
       <pj:prisjakt_id>13540905</pj:prisjakt_id>
       <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>50 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-52899232678216</g:id>
+      <g:title>MOZA R5 Racing Bundle – 5,5 Nm</g:title>
+      <g:product_type>Simracing &gt; Paket</g:product_type>
+      <g:google_product_category>543591</g:google_product_category>
+      <g:description>MOZA R5 Racing Bundle är ett komplett direct drive-paket för Windows PC. Paketet kombinerar R5-rattbasen med 5,5 Nm maximalt vridmoment, en 280 mm MOZA ES-ratt och SR-P Lite gas- och bromspedaler.R5 använder en 15-bitars encoder och kan justeras i MOZA Pit House. ES-ratten har 22 knappar, 10 LED-lampor och snabbkoppling, medan SR-P Lite-pedalerna använder kontaktfria Hall-sensorer och har justerbart pedalavstånd och justerbar pedalplatthöjd.Bordsklämma, nätadapter, strömkabel och USB-kabel ingår, så paketet kan monteras direkt på ett skrivbord. För cockpitmontering har rattbasen fyra fästhål på undersidan.</g:description>
+      <g:link>https://simedge.se/products/moza-r5-racing-simulator-bundle-r5-direct-drive-wheelbase-es-steering-wheel-sr-p-lite-pedals-2?variant=52899232678216</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r5-racing-bundle-5-5nm-complete-pc-kit.webp?v=1789510671</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r5-direct-drive-wheel-base-5-5nm.webp?v=1789510672</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r5-racing-bundle-desk-clamp-setup.webp?v=1789510671</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-es-steering-wheel-280mm-r5-bundle.webp?v=1789510672</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-sr-p-lite-two-pedal-set-r5-bundle.webp?v=1789510671</g:additional_image_link>
+      <g:price>4999.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Moza Racing</g:brand>
+      <g:item_group_id>shopify-product-10013601890632</g:item_group_id>
+      <g:gtin>6973137270339</g:gtin>
+      <g:mpn>RS20</g:mpn>
+      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_weight>12.638 kg</g:shipping_weight>
     </item>
     <item>
       <g:id>shopify-variant-52899232973128</g:id>
