@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-09-17T13:15:56.050Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-09-24T11:36:15.665Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -1429,7 +1429,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/800x800TransparentBackground-4.webp?v=1775156982</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/800x800TransparentBackground-2_e0548c6a-fd97-44ff-92ec-218fb54d189c.webp?v=1775156982</g:additional_image_link>
       <g:price>13490.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-9999452537160</g:item_group_id>
@@ -8187,7 +8187,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-haptikmodul-monteringssida.webp?v=1788891726</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-haptikmoduler-monterade-pa-pedaler.webp?v=1788891726</g:additional_image_link>
       <g:price>695.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10273259749704</g:item_group_id>
