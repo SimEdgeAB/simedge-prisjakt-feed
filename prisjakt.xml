@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-09-24T11:36:15.665Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-09-28T05:58:10.750Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -2526,6 +2526,60 @@
       <g:shipping_weight>4 kg</g:shipping_weight>
     </item>
     <item>
+      <g:id>shopify-variant-52899195355464</g:id>
+      <g:title>Playseat® Evolution – Black ActiFit™</g:title>
+      <g:product_type>Simracing &gt; Cockpits</g:product_type>
+      <g:google_product_category>6800</g:google_product_category>
+      <g:description>Playseat® Evolution – Black ActiFit™ är ett komplett simracingcockpit med integrerad sits och en GT- och rallyinspirerad körposition. Den stabila stålramen har justerbar rattplatta och pedalplatta för att anpassa körställningen.Den ventilerande ActiFit™-klädseln hjälper till att hålla kroppen sval under längre körpass. Ratt, pedaler och växelspak säljs separat.</g:description>
+      <g:link>https://simedge.se/products/playseat-evolution-black-actifit?variant=52899195355464</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EvolutionActifit-1.png?v=1790251589</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EvolutionActifit-2.png?v=1790251590</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-03.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-04.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-05.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-06.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-07.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-08.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-black-actifit-immersive-simracing_4c15281e-991a-4112-91d5-df7f97208e3e.jpg?v=1790254550</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-black-actifit-gt-driving-position_53354ced-3980-4888-8a48-0a24fde42e18.jpg?v=1790254550</g:additional_image_link>
+      <g:price>3599.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Playseat</g:brand>
+      <g:item_group_id>shopify-product-10013578920264</g:item_group_id>
+      <g:gtin>8717496871466</g:gtin>
+      <g:mpn>REM.00004</g:mpn>
+      <g:shipping_label>pall</g:shipping_label>
+      <g:shipping_weight>22.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-52899195421000</g:id>
+      <g:title>Playseat® Evolution Pro – Black ActiFit™</g:title>
+      <g:product_type>Simracing &gt; Cockpits</g:product_type>
+      <g:google_product_category>6800</g:google_product_category>
+      <g:description>Playseat® Evolution Pro – Black ActiFit™ är ett komplett simracingcockpit med integrerad sits och en GT- och rallyinspirerad körposition. Den stabila stålramen har justerbar rattplatta och pedalplatta för att anpassa körställningen.Pro-versionen har mer uttalade sido- och huvudstöd för en mer omslutande sits. Den ventilerande ActiFit™-klädseln hjälper till att hålla kroppen sval under längre körpass. Ratt, pedaler och växelspak säljs separat.</g:description>
+      <g:link>https://simedge.se/products/playseat-evolution-pro-black-actifit?variant=52899195421000</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EvolutionProActifit-1.png?v=1790251590</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EvolutionProActifit-2.png?v=1790251590</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evo-pro-actifit-03.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evo-pro-actifit-04.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evo-pro-actifit-05.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evo-pro-actifit-06.jpg?v=1790251590</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evo-pro-actifit-07.jpg?v=1790251590</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evo-pro-actifit-08.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-pro-black-actifit-simracing-driver_c5d6ba79-8b37-4ea6-ac9d-bc6fc07cd6eb.jpg?v=1790253497</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-pro-black-actifit-balanced-comfort_d2acaba6-40d9-4493-b028-f4b046e71545.jpg?v=1790254550</g:additional_image_link>
+      <g:price>4299.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Playseat</g:brand>
+      <g:item_group_id>shopify-product-10013578953032</g:item_group_id>
+      <g:gtin>8717496872760</g:gtin>
+      <g:mpn>REP.00262</g:mpn>
+      <g:shipping_label>pall</g:shipping_label>
+      <g:shipping_weight>22.5 kg</g:shipping_weight>
+    </item>
+    <item>
       <g:id>shopify-variant-52899195683144</g:id>
       <g:title>Playseat® Challenge DD – F1® Edition</g:title>
       <g:product_type>Simracing &gt; Cockpits</g:product_type>
@@ -2540,7 +2594,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Playseat_-Challenge-DD---F1_-Edition_0004_25073845_PLAYSEAT_NEW_BACK_CHALLENGE_DD-copy.png?v=1786322519</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Playseat_-Challenge-DD---F1_-Edition_0000_25073845_PLAYSEAT_NEW_FRONT_CHALLENGE_DD_WITHOUT_STEERING_WHEEL_PEDALS-copy.png?v=1786322519</g:additional_image_link>
       <g:price>4599.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013579149640</g:item_group_id>
@@ -2549,6 +2603,44 @@
       <pj:prisjakt_id>15914027</pj:prisjakt_id>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-52899204825416</g:id>
+      <g:title>Sabelt G39 simracinghandskar – Svart – M</g:title>
+      <g:product_type>Simracing &gt; Handskar</g:product_type>
+      <g:google_product_category>170</g:google_product_category>
+      <g:description>Sabelt G39 är hellånga simracinghandskar utvecklade för förare som prioriterar kontroll och komfort under krävande körpass. Utvändiga sömmar minskar tryckpunkterna och det perforerade tyget förbättrar ventilationen.Handflatan använder Sabelts Geckotech™-teknik med tredimensionella silikonmönster för högt grepp och precision mot rattens yta. Ett förstärkt silikonparti vid handleden skyddar sömmarna mot slitage när handskarna tas på.Denna produkt gäller färgen Deep Black. Välj storlek M eller L.</g:description>
+      <g:link>https://simedge.se/products/sabelt-g39-simracinghandskar-svart?variant=52899204825416</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g39-simracinghandskar-svart.jpg?v=1790273481</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g39-simracinghandskar-svart-storleksguide.webp?v=1790275497</g:additional_image_link>
+      <g:price>1249.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Sabelt Sim Racing</g:brand>
+      <g:item_group_id>shopify-product-10013586784584</g:item_group_id>
+      <g:gtin>8059772411721</g:gtin>
+      <g:mpn>00319-03-02-BLK-M</g:mpn>
+      <g:shipping_label>standardpaket</g:shipping_label>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-54133406597448</g:id>
+      <g:title>Sabelt G39 simracinghandskar – Svart – L</g:title>
+      <g:product_type>Simracing &gt; Handskar</g:product_type>
+      <g:google_product_category>170</g:google_product_category>
+      <g:description>Sabelt G39 är hellånga simracinghandskar utvecklade för förare som prioriterar kontroll och komfort under krävande körpass. Utvändiga sömmar minskar tryckpunkterna och det perforerade tyget förbättrar ventilationen.Handflatan använder Sabelts Geckotech™-teknik med tredimensionella silikonmönster för högt grepp och precision mot rattens yta. Ett förstärkt silikonparti vid handleden skyddar sömmarna mot slitage när handskarna tas på.Denna produkt gäller färgen Deep Black. Välj storlek M eller L.</g:description>
+      <g:link>https://simedge.se/products/sabelt-g39-simracinghandskar-svart?variant=54133406597448</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g39-simracinghandskar-svart.jpg?v=1790273481</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g39-simracinghandskar-svart-storleksguide.webp?v=1790275497</g:additional_image_link>
+      <g:price>1249.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Sabelt Sim Racing</g:brand>
+      <g:item_group_id>shopify-product-10013586784584</g:item_group_id>
+      <g:gtin>8059772411714</g:gtin>
+      <g:mpn>00319-03-02-BLK-L</g:mpn>
+      <g:shipping_label>standardpaket</g:shipping_label>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
     <item>
       <g:id>shopify-variant-52899222028616</g:id>
@@ -3449,6 +3541,44 @@
       <g:shipping_weight>3.8 kg</g:shipping_weight>
     </item>
     <item>
+      <g:id>shopify-variant-52899227631944</g:id>
+      <g:title>Sabelt G39 simracinghandskar – Vit – M</g:title>
+      <g:product_type>Simracing &gt; Handskar</g:product_type>
+      <g:google_product_category>170</g:google_product_category>
+      <g:description>Sabelt G39 är hellånga simracinghandskar utvecklade för förare som prioriterar kontroll och komfort under krävande körpass. Utvändiga sömmar minskar tryckpunkterna och det perforerade tyget förbättrar ventilationen.Handflatan använder Sabelts Geckotech™-teknik med tredimensionella silikonmönster för högt grepp och precision mot rattens yta. Ett förstärkt silikonparti vid handleden skyddar sömmarna mot slitage när handskarna tas på.Denna produkt gäller färgen Clear White. Välj storlek M eller L.</g:description>
+      <g:link>https://simedge.se/products/sabelt-g39-simracinghandskar-vit?variant=52899227631944</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g39-simracinghandskar-vit.jpg?v=1790273481</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g39-simracinghandskar-vit-storleksguide.webp?v=1790275497</g:additional_image_link>
+      <g:price>1249.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Sabelt Sim Racing</g:brand>
+      <g:item_group_id>shopify-product-10013599498568</g:item_group_id>
+      <g:gtin>8059772411769</g:gtin>
+      <g:mpn>00319-03-02-WHI-M</g:mpn>
+      <g:shipping_label>standardpaket</g:shipping_label>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-54133406662984</g:id>
+      <g:title>Sabelt G39 simracinghandskar – Vit – L</g:title>
+      <g:product_type>Simracing &gt; Handskar</g:product_type>
+      <g:google_product_category>170</g:google_product_category>
+      <g:description>Sabelt G39 är hellånga simracinghandskar utvecklade för förare som prioriterar kontroll och komfort under krävande körpass. Utvändiga sömmar minskar tryckpunkterna och det perforerade tyget förbättrar ventilationen.Handflatan använder Sabelts Geckotech™-teknik med tredimensionella silikonmönster för högt grepp och precision mot rattens yta. Ett förstärkt silikonparti vid handleden skyddar sömmarna mot slitage när handskarna tas på.Denna produkt gäller färgen Clear White. Välj storlek M eller L.</g:description>
+      <g:link>https://simedge.se/products/sabelt-g39-simracinghandskar-vit?variant=54133406662984</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g39-simracinghandskar-vit.jpg?v=1790273481</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g39-simracinghandskar-vit-storleksguide.webp?v=1790275497</g:additional_image_link>
+      <g:price>1249.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Sabelt Sim Racing</g:brand>
+      <g:item_group_id>shopify-product-10013599498568</g:item_group_id>
+      <g:gtin>8059772411752</g:gtin>
+      <g:mpn>00319-03-02-WHI-L</g:mpn>
+      <g:shipping_label>standardpaket</g:shipping_label>
+      <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
       <g:id>shopify-variant-52899230384456</g:id>
       <g:title>Nitro Concepts Seat Slide and Holder S</g:title>
       <g:product_type>Simracing &gt; Cockpittillbehör</g:product_type>
@@ -3612,6 +3742,33 @@
       <g:shipping_weight>26.75 kg</g:shipping_weight>
     </item>
     <item>
+      <g:id>shopify-variant-52899230843208</g:id>
+      <g:title>Playseat® Evolution – Racing Suède</g:title>
+      <g:product_type>Simracing &gt; Cockpits</g:product_type>
+      <g:google_product_category>6800</g:google_product_category>
+      <g:description>Playseat® Evolution – Racing Suède är ett komplett simracingcockpit med integrerad sits och en GT- och rallyinspirerad körposition. Den stabila stålramen har justerbar rattplatta och pedalplatta för att anpassa körställningen.Racing Suède-klädseln ger en mjuk, motorsportinspirerad kontaktyta. Ratt, pedaler och växelspak säljs separat.</g:description>
+      <g:link>https://simedge.se/products/playseat-evolution-racing-suede?variant=52899230843208</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EvolutionSuede-1.png?v=1785891280</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EvolutionSuede-2.png?v=1790251590</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-03_5a858bee-e4d2-49f8-820f-6ab6047749ea.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-04_8ac39bfb-a836-41bc-860b-e757e6829b49.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-05_859ab5e4-c068-4f7e-bd53-8dbf910c6b77.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-06_6109d61e-c928-4315-b3f4-46349163bb2c.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-07_11cc7284-2170-4814-ad05-6eddaeb87123.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-actifit-08_c145252c-4e25-4321-9baa-68b217ef4e4a.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-racing-suede-immersive-simracing_7ce05d3d-1ebc-44a7-929a-9cd263b77309.jpg?v=1790254550</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-racing-suede-ergonomic-seat_39e82725-74a6-4d15-a5f6-3a47833a0972.jpg?v=1790254550</g:additional_image_link>
+      <g:price>3799.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Playseat</g:brand>
+      <g:item_group_id>shopify-product-10013600678216</g:item_group_id>
+      <g:gtin>8717496871480</g:gtin>
+      <g:mpn>REM.00008</g:mpn>
+      <g:shipping_label>pall</g:shipping_label>
+      <g:shipping_weight>22.5 kg</g:shipping_weight>
+    </item>
+    <item>
       <g:id>shopify-variant-52899230875976</g:id>
       <g:title>Playseat® Trophy – Black ActiFit™</g:title>
       <g:product_type>Simracing &gt; Cockpits</g:product_type>
@@ -3689,6 +3846,60 @@
       <pj:prisjakt_id>5306012</pj:prisjakt_id>
       <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>38 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-52899230974280</g:id>
+      <g:title>Playseat® Challenge – Black ActiFit™</g:title>
+      <g:product_type>Simracing &gt; Cockpits</g:product_type>
+      <g:google_product_category>6800</g:google_product_category>
+      <g:description>Playseat® Challenge – Black ActiFit™ är ett lätt, justerbart och hopfällbart simracingcockpit för dig som vill kunna ställa undan hela körplatsen efter användning. Den patenterade konstruktionen kan fällas ihop med ratt och pedaler monterade, och väger 9 kg.Ramen kan ställas för GT-, rally- eller Formula-liknande körposition. ActiFit™-klädseln är ventilerande och sitsens stöd och fasthet kan anpassas med remmarna. Ratt- och pedalfästen ingår; ratt, pedaler och växelspak säljs separat.</g:description>
+      <g:link>https://simedge.se/products/playseat-challenge-black-actifit?variant=52899230974280</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/ChallengeActifit-1.png?v=1785891278</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/ChallengeActifit-2.png?v=1790251590</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-actifit-03.jpg?v=1790251588</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-actifit-04.jpg?v=1790251588</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-actifit-05.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-actifit-06.jpg?v=1790251588</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-black-actifit-simracing-cockpit-side-view_f7017803-19fe-45be-b66e-8ce5c5aa2ca2.jpg?v=1790254549</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-black-actifit-wheel-platform-detail_2548fad5-5acf-447b-8dd2-0102a39dc278.jpg?v=1790254549</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-black-actifit-folded-storage_a930168b-f7b4-4055-904d-35bfe590213f.jpg?v=1790254550</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-black-actifit-autentisk-racing-sidovy.webp?v=1790267114</g:additional_image_link>
+      <g:price>2699.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Playseat</g:brand>
+      <g:item_group_id>shopify-product-10013600776520</g:item_group_id>
+      <g:gtin>8717496873026</g:gtin>
+      <g:mpn>RC.00312</g:mpn>
+      <g:shipping_label>standardpaket</g:shipping_label>
+      <g:shipping_weight>13 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-52899231400264</g:id>
+      <g:title>Playseat® Challenge X – Logitech G Edition</g:title>
+      <g:product_type>Simracing &gt; Cockpits</g:product_type>
+      <g:google_product_category>6800</g:google_product_category>
+      <g:description>Playseat® Challenge X – Logitech G Edition är ett hopfällbart simracingcockpit utvecklat tillsammans med Logitech G. Den justerbara ramen, ActiFit™-klädseln och sex X-Adapt-positioner gör det möjligt att anpassa pedal- och rattläge efter förare och körstil.Cockpiten väger 11,6 kg och kan fällas ihop med ratt och pedaler monterade. Ett stabilt växelspaksfäste ingår. Ratt, pedaler och växelspak säljs separat.</g:description>
+      <g:link>https://simedge.se/products/playseat-challenge-x-logitech-g-edition?variant=52899231400264</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/ChallengeX-1.png?v=1785891274</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/ChallengeX-2.png?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-actifit-03.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-actifit-04.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-actifit-05.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-actifit-06.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-actifit-07.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-actifit-08.jpg?v=1790251589</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-logitech-g-simracing-cockpit-living-room_9e4ad4dd-ae0e-493e-8407-171835b84621.jpg?v=1790253497</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-logitech-g-folded-storage_0c6bc1d1-f9b7-4b1f-9705-3953f177b766.jpg?v=1790253502</g:additional_image_link>
+      <g:price>3499.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Playseat</g:brand>
+      <g:item_group_id>shopify-product-10013600907592</g:item_group_id>
+      <g:gtin>8717496872791</g:gtin>
+      <g:mpn>G.00248</g:mpn>
+      <g:shipping_label>standardpaket</g:shipping_label>
+      <g:shipping_weight>13.5 kg</g:shipping_weight>
     </item>
     <item>
       <g:id>shopify-variant-52899231498568</g:id>
@@ -3803,7 +4014,7 @@
       <g:item_group_id>shopify-product-10013601890632</g:item_group_id>
       <g:gtin>6973137270339</g:gtin>
       <g:mpn>RS20</g:mpn>
-      <g:shipping_label>ej_klassificerad</g:shipping_label>
+      <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>12.638 kg</g:shipping_weight>
     </item>
     <item>
@@ -4669,16 +4880,52 @@
       <g:shipping_weight>9 kg</g:shipping_weight>
     </item>
     <item>
+      <g:id>shopify-variant-54133424324936</g:id>
+      <g:title>Sabelt G33 simracinghandskar – Svart – S</g:title>
+      <g:product_type>Simracing &gt; Handskar</g:product_type>
+      <g:google_product_category>170</g:google_product_category>
+      <g:description>Sabelt G33 är lätta och ventilerande simracinghandskar med inspiration från professionell motorsport. Utvändiga sömmar minskar tryckpunkterna under långa körpass, medan silikontrycket i handflatan ger ett säkert grepp och precis kontroll över ratten.Den elastiska mudden är förstärkt med silikon för högre slitstyrka. Tumme och pekfinger har dessutom touchscreen-kompatibla partier, så att du kan använda en pekskärm utan att ta av handskarna.Denna produkt gäller färgen Deep Black. Välj storlek S, M, L eller XL.</g:description>
+      <g:link>https://simedge.se/products/sabelt-g33-simracinghandskar-svart?variant=54133424324936</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g33-simracinghandskar-svart.png?v=1790275498</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g33-simracinghandskar-storleksguide.webp?v=1790275496</g:additional_image_link>
+      <g:price>699.00 SEK</g:price>
+      <g:availability>out_of_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Sabelt Sim Racing</g:brand>
+      <g:item_group_id>shopify-product-10013605822792</g:item_group_id>
+      <g:gtin>8059772411578</g:gtin>
+      <g:mpn>00319-02-01-BLK-S</g:mpn>
+      <g:shipping_label>standardpaket</g:shipping_label>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-54133424357704</g:id>
+      <g:title>Sabelt G33 simracinghandskar – Svart – M</g:title>
+      <g:product_type>Simracing &gt; Handskar</g:product_type>
+      <g:google_product_category>170</g:google_product_category>
+      <g:description>Sabelt G33 är lätta och ventilerande simracinghandskar med inspiration från professionell motorsport. Utvändiga sömmar minskar tryckpunkterna under långa körpass, medan silikontrycket i handflatan ger ett säkert grepp och precis kontroll över ratten.Den elastiska mudden är förstärkt med silikon för högre slitstyrka. Tumme och pekfinger har dessutom touchscreen-kompatibla partier, så att du kan använda en pekskärm utan att ta av handskarna.Denna produkt gäller färgen Deep Black. Välj storlek S, M, L eller XL.</g:description>
+      <g:link>https://simedge.se/products/sabelt-g33-simracinghandskar-svart?variant=54133424357704</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g33-simracinghandskar-svart.png?v=1790275498</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g33-simracinghandskar-storleksguide.webp?v=1790275496</g:additional_image_link>
+      <g:price>699.00 SEK</g:price>
+      <g:availability>out_of_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Sabelt Sim Racing</g:brand>
+      <g:item_group_id>shopify-product-10013605822792</g:item_group_id>
+      <g:gtin>8059772411561</g:gtin>
+      <g:mpn>00319-02-01-BLK-M</g:mpn>
+      <g:shipping_label>standardpaket</g:shipping_label>
+      <g:shipping_weight>0.5 kg</g:shipping_weight>
+    </item>
+    <item>
       <g:id>shopify-variant-52963377217864</g:id>
-      <g:title>Sabelt G33 Sim Gloves – L - Black</g:title>
-      <g:product_type>Simracing &gt; Övriga tillbehör</g:product_type>
-      <g:google_product_category>8008</g:google_product_category>
-      <g:description>Sabelt G33 Sim Gloves är lätta simracinghandskar med utvändiga sömmar, silikontryckt handflata och förstärkt elastisk manschett. Konstruktionen ger grepp och komfort under långa körpass, och tumme samt pekfinger har pekskärmskompatibla insatser.Denna aktiva SimEdge-produkt erbjuds i Deep Black och storlek L eller XL. Kontrollera storleken före beställning.</g:description>
-      <g:link>https://simedge.se/products/sabelt-sim-racer-gloves-g33-black-xtra-large-2?variant=52963377217864</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/G33_black_1_3b91508f-285e-4ef5-9d6b-608a1b427ffc.webp?v=1776899656</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/G33_black_1.webp?v=1776899428</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SizeGuide.jpg?v=1776899439</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SizeGuide_d7f4fb92-ed3d-4c0a-a4c4-2c37a12c37cc.jpg?v=1776899661</g:additional_image_link>
+      <g:title>Sabelt G33 simracinghandskar – Svart – L</g:title>
+      <g:product_type>Simracing &gt; Handskar</g:product_type>
+      <g:google_product_category>170</g:google_product_category>
+      <g:description>Sabelt G33 är lätta och ventilerande simracinghandskar med inspiration från professionell motorsport. Utvändiga sömmar minskar tryckpunkterna under långa körpass, medan silikontrycket i handflatan ger ett säkert grepp och precis kontroll över ratten.Den elastiska mudden är förstärkt med silikon för högre slitstyrka. Tumme och pekfinger har dessutom touchscreen-kompatibla partier, så att du kan använda en pekskärm utan att ta av handskarna.Denna produkt gäller färgen Deep Black. Välj storlek S, M, L eller XL.</g:description>
+      <g:link>https://simedge.se/products/sabelt-g33-simracinghandskar-svart?variant=52963377217864</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g33-simracinghandskar-svart.png?v=1790275498</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g33-simracinghandskar-storleksguide.webp?v=1790275496</g:additional_image_link>
       <g:price>699.00 SEK</g:price>
       <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
@@ -4692,15 +4939,13 @@
     </item>
     <item>
       <g:id>shopify-variant-52963377250632</g:id>
-      <g:title>Sabelt G33 Sim Gloves – XL - Black</g:title>
-      <g:product_type>Simracing &gt; Övriga tillbehör</g:product_type>
-      <g:google_product_category>8008</g:google_product_category>
-      <g:description>Sabelt G33 Sim Gloves är lätta simracinghandskar med utvändiga sömmar, silikontryckt handflata och förstärkt elastisk manschett. Konstruktionen ger grepp och komfort under långa körpass, och tumme samt pekfinger har pekskärmskompatibla insatser.Denna aktiva SimEdge-produkt erbjuds i Deep Black och storlek L eller XL. Kontrollera storleken före beställning.</g:description>
-      <g:link>https://simedge.se/products/sabelt-sim-racer-gloves-g33-black-xtra-large-2?variant=52963377250632</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/G33_black_1.webp?v=1776899428</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SizeGuide.jpg?v=1776899439</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/G33_black_1_3b91508f-285e-4ef5-9d6b-608a1b427ffc.webp?v=1776899656</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SizeGuide_d7f4fb92-ed3d-4c0a-a4c4-2c37a12c37cc.jpg?v=1776899661</g:additional_image_link>
+      <g:title>Sabelt G33 simracinghandskar – Svart – XL</g:title>
+      <g:product_type>Simracing &gt; Handskar</g:product_type>
+      <g:google_product_category>170</g:google_product_category>
+      <g:description>Sabelt G33 är lätta och ventilerande simracinghandskar med inspiration från professionell motorsport. Utvändiga sömmar minskar tryckpunkterna under långa körpass, medan silikontrycket i handflatan ger ett säkert grepp och precis kontroll över ratten.Den elastiska mudden är förstärkt med silikon för högre slitstyrka. Tumme och pekfinger har dessutom touchscreen-kompatibla partier, så att du kan använda en pekskärm utan att ta av handskarna.Denna produkt gäller färgen Deep Black. Välj storlek S, M, L eller XL.</g:description>
+      <g:link>https://simedge.se/products/sabelt-g33-simracinghandskar-svart?variant=52963377250632</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g33-simracinghandskar-svart.png?v=1790275498</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sabelt-g33-simracinghandskar-storleksguide.webp?v=1790275496</g:additional_image_link>
       <g:price>699.00 SEK</g:price>
       <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
