@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-09-28T05:58:10.750Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-09-30T02:58:27.462Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -1243,7 +1243,6 @@
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9997051494728</g:item_group_id>
       <g:gtin>8059772410502</g:gtin>
-      <g:mpn>00108-05-00</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.2 kg</g:shipping_weight>
     </item>
@@ -1368,7 +1367,6 @@
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9997074334024</g:item_group_id>
       <g:gtin>8059772411400</g:gtin>
-      <g:mpn>00318-04-01-BLU</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
     </item>
@@ -1390,7 +1388,6 @@
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9997074334024</g:item_group_id>
       <g:gtin>8059772411394</g:gtin>
-      <g:mpn>00318-04-01-BLK</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
     </item>
@@ -1412,7 +1409,6 @@
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9997074334024</g:item_group_id>
       <g:gtin>8059772411417</g:gtin>
-      <g:mpn>00318-04-01-RED</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
     </item>
@@ -3577,6 +3573,30 @@
       <g:mpn>00319-03-02-WHI-L</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-52899230253384</g:id>
+      <g:title>Nitro Concepts SM1 – 49-tums DQHD-skärm</g:title>
+      <g:product_type>Simracing &gt; Skärmar &amp; displayer</g:product_type>
+      <g:google_product_category>283</g:google_product_category>
+      <g:description>Nitro Concepts SM1 är en välvd 49-tumsskärm utvecklad för ett brett och sammanhängande synfält i simracing. IPS-panelen har DQHD-upplösning på 5120 × 1440, bildförhållandet 32:9, 144 Hz uppdateringsfrekvens och 1 ms MPRT.Stöd för AMD FreeSync och NVIDIA G-SYNC hjälper till att ge mjuk bildåtergivning. Skärmen har två HDMI-ingångar, DisplayPort via USB-C, USB-hubb, inbyggda 2 × 3 W-högtalare och VESA 100 × 100 mm. 49 tum välvd IPS-panel i 32:9 5120 × 1440 DQHD 144 Hz och 1 ms MPRT FreeSync, G-SYNC och integrerad USB-hubb</g:description>
+      <g:link>https://simedge.se/products/nitro-concepts-sm1-49-tums-dqhd-skarm?variant=52899230253384</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/nitro-concepts-sm1-builder-01-transparent.png?v=1786743616</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/nitro-concepts-sm1-builder-02-transparent.png?v=1786743615</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/nitro-concepts-sm1-builder-03-transparent.png?v=1786743613</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/350cbc7534de4d65956fa13196427eef.jpg?v=1786154895</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/d8cf07d7ef5d42bd9a04eccbde3a480a.jpg?v=1786154895</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/d980c2a075b5cca6a1b53ed0367b83ba.jpg?v=1786154895</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/sm1-2.jpg?v=1786155483</g:additional_image_link>
+      <g:price>9899.00 SEK</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Nitro Concepts</g:brand>
+      <g:item_group_id>shopify-product-10013600219464</g:item_group_id>
+      <g:gtin>4251442511456</g:gtin>
+      <g:mpn>NC-SR-RM-001</g:mpn>
+      <g:shipping_label>skrymmande</g:shipping_label>
+      <g:shipping_weight>16.8 kg</g:shipping_weight>
     </item>
     <item>
       <g:id>shopify-variant-52899230384456</g:id>
@@ -8432,7 +8452,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-haptikmodul-monteringssida.webp?v=1788891726</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-haptikmoduler-monterade-pa-pedaler.webp?v=1788891726</g:additional_image_link>
       <g:price>695.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10273259749704</g:item_group_id>
