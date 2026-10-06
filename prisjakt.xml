@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-10-05T06:16:27.667Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-10-06T13:54:28.630Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -777,7 +777,7 @@
       <g:link>https://simedge.se/products/sabelt-srp-stolskenor?variant=52802499051848</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/guide-formula-jpg.webp?v=1775154047</g:image_link>
       <g:price>790.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Sabelt</g:brand>
       <g:item_group_id>shopify-product-9994980622664</g:item_group_id>
@@ -1425,7 +1425,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/800x800TransparentBackground-4.webp?v=1775156982</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/800x800TransparentBackground-2_e0548c6a-fd97-44ff-92ec-218fb54d189c.webp?v=1775156982</g:additional_image_link>
       <g:price>12995.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-9999452537160</g:item_group_id>
