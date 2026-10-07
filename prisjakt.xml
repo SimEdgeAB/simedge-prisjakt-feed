@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-10-06T13:54:28.630Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-10-07T05:44:09.588Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -1519,7 +1519,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/QR70_3.webp?v=1775678697</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/QR70_2.webp?v=1775678700</g:additional_image_link>
       <g:price>685.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10002735366472</g:item_group_id>
@@ -1669,7 +1669,6 @@
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003381977416</g:item_group_id>
       <g:gtin>6975472770130</g:gtin>
-      <g:mpn>SMG-FXW-C290</g:mpn>
       <pj:prisjakt_id>13969501</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
@@ -1687,7 +1686,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/4_3_dbd08d58-955a-4ec6-ba9c-0066fd77c709.webp?v=1775792216</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/3_1_a48febf0-a70b-41b7-8d3d-63377fa108f9.webp?v=1775792216</g:additional_image_link>
       <g:price>3295.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003423985992</g:item_group_id>
@@ -1755,7 +1754,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/DS-8X_11.webp?v=1775913760</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/DS-8Xbottoms.webp?v=1775913764</g:additional_image_link>
       <g:price>4590.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003434930504</g:item_group_id>
@@ -1807,7 +1806,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/20_4.webp?v=1775924132</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/20_3.webp?v=1775924138</g:additional_image_link>
       <g:price>3755.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003437912392</g:item_group_id>
@@ -1861,7 +1860,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000png_4_1.webp?v=1776029543</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000png_7_1.webp?v=1776029543</g:additional_image_link>
       <g:price>5995.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003440206152</g:item_group_id>
@@ -1889,7 +1888,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000png_4_1.webp?v=1776029543</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000png_7_1.webp?v=1776029543</g:additional_image_link>
       <g:price>7890.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003440206152</g:item_group_id>
@@ -1941,7 +1940,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000ipng_3.webp?v=1776034837</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000ipng_1.webp?v=1776034837</g:additional_image_link>
       <g:price>9695.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003442237768</g:item_group_id>
@@ -2293,7 +2292,7 @@
       <g:link>https://simedge.se/products/simagic-evo-side-mounting-bracket?variant=52862068490568</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MB-S.webp?v=1775692595</g:image_link>
       <g:price>395.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10005825782088</g:item_group_id>
@@ -3806,7 +3805,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-trophy-red-04.jpg?v=1786159834</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-trophy-red-05.jpg?v=1786159835</g:additional_image_link>
       <g:price>6899.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600710984</g:item_group_id>
@@ -3834,7 +3833,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-trophy-red-04.jpg?v=1786159834</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-trophy-red-05.jpg?v=1786159835</g:additional_image_link>
       <g:price>6899.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600710984</g:item_group_id>
@@ -3857,7 +3856,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-sensation-pro-black-actifit-rsp00110-rear-view.webp?v=1786572814</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-sensation-pro-black-actifit-rsp00110-front-view.webp?v=1786572814</g:additional_image_link>
       <g:price>13699.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600743752</g:item_group_id>
@@ -4050,7 +4049,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-HGP-Shifter-5.webp?v=1778292390</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-HGP-Shifter-4.webp?v=1778292390</g:additional_image_link>
       <g:price>1899.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602120008</g:item_group_id>
@@ -4990,7 +4989,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-sport-steering-wheel-angle-display.webp?v=1780958936</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-sport-steering-wheel-rear.webp?v=1780958958</g:additional_image_link>
       <g:price>4595.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10091228889416</g:item_group_id>
@@ -5014,7 +5013,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-gt-steering-wheel-angle-display_webp.webp?v=1780960120</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-gt-steering-wheel-rear_webp.webp?v=1780960181</g:additional_image_link>
       <g:price>4795.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10091240423752</g:item_group_id>
