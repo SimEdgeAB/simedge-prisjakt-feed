@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-10-10T06:13:49.429Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-10-12T05:39:43.079Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -2736,7 +2736,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-hbp-handbrake-usb-rj11-connections-optimized.webp?v=1787496803</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-hbp-handbrake-mounting-positions-optimized.webp?v=1787496803</g:additional_image_link>
       <g:price>1299.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595566408</g:item_group_id>
@@ -3164,7 +3164,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-ks-pro-gt-wheel-back.webp?v=1776520942</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-ks-pro-gt-wheel-back-right-angle.webp?v=1776520925</g:additional_image_link>
       <g:price>4095.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597565256</g:item_group_id>
@@ -4075,7 +4075,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-SGP-Sequential-Shifter-3.webp?v=1778290986</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-SGP-Sequential-Shifter-2.webp?v=1778290986</g:additional_image_link>
       <g:price>1599.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602447688</g:item_group_id>
