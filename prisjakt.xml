@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-10-12T05:39:43.079Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-10-13T07:03:06.617Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -3020,7 +3020,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r12-v2-wheelbase-underside-connection-panel.webp?v=1786478451</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r12-v2-wheelbase-rear-view.webp?v=1786478452</g:additional_image_link>
       <g:price>4989.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597073736</g:item_group_id>
@@ -8802,6 +8802,31 @@
       <g:mpn>SMG-PD2-700</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>3.6 kg</g:shipping_weight>
+    </item>
+    <item>
+      <g:id>shopify-variant-54264803754312</g:id>
+      <g:title>CONSPIT 310 APEX – 310 mm ratt med display</g:title>
+      <g:product_type>Simracing &gt; Rattar</g:product_type>
+      <g:google_product_category>543591</g:google_product_category>
+      <g:description>310 mm simracingratt med 2,99-tums färgdisplay, RGB-reglage och magnetiska Hall-sensorpaddlar. Rattdelen av CDR Quick Release ingår i denna CP118-version.Färgdisplayen kombineras med åtta RGB-knappar, encoderhjul och flerlagesreglage för snabb åtkomst under körning. Separata kopplingspaddlar och tysta magnetiska växlingspaddlar använder Hall-sensorer.För Windows-PC och en rattbas med en kompatibel CDR-rattbasdel. Användning med andra fästsystem kräver en separat, kompatibel adapter- och anslutningslösning.</g:description>
+      <g:link>https://simedge.se/products/conspit-310-apex-cp118?variant=54264803754312</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-310-apex-steering-wheel-front.png?v=1791601951</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-310-apex-steering-wheel-angled.png?v=1791601951</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-310-apex-steering-wheel-side.png?v=1791601949</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-310-apex-steering-wheel-rear.png?v=1791601950</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-310-apex-sim-rig.jpg?v=1791601945</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-310-apex-display-rgb.jpg?v=1791601945</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-310-apex-cockpit.jpg?v=1791601945</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-310-apex-controls.jpg?v=1791601946</g:additional_image_link>
+      <g:price>4299.00 SEK</g:price>
+      <g:availability>out_of_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Conspit</g:brand>
+      <g:item_group_id>shopify-product-10335372509512</g:item_group_id>
+      <g:gtin>6977068960567</g:gtin>
+      <g:mpn>CP118</g:mpn>
+      <g:shipping_label>standardpaket</g:shipping_label>
+      <g:shipping_weight>5 kg</g:shipping_weight>
     </item>
   </channel>
 </rss>
