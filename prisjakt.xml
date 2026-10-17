@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-10-16T13:10:58.705Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-10-17T12:16:20.363Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -1425,7 +1425,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/800x800TransparentBackground-4.webp?v=1775156982</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/800x800TransparentBackground-2_e0548c6a-fd97-44ff-92ec-218fb54d189c.webp?v=1775156982</g:additional_image_link>
       <g:price>12995.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-9999452537160</g:item_group_id>
@@ -1519,7 +1519,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/QR70_3.webp?v=1775678697</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/QR70_2.webp?v=1775678700</g:additional_image_link>
       <g:price>685.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10002735366472</g:item_group_id>
@@ -1582,7 +1582,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/3_70ae49e7-90b8-438f-83b8-c583c988b329.webp?v=1775905537</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/4_799f012e-a5da-4e7e-89be-83f5ed06eac3.webp?v=1775905538</g:additional_image_link>
       <g:price>350.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003223904584</g:item_group_id>
@@ -1686,7 +1686,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/4_3_dbd08d58-955a-4ec6-ba9c-0066fd77c709.webp?v=1775792216</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/3_1_a48febf0-a70b-41b7-8d3d-63377fa108f9.webp?v=1775792216</g:additional_image_link>
       <g:price>3295.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003423985992</g:item_group_id>
@@ -1754,7 +1754,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/DS-8X_11.webp?v=1775913760</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/DS-8Xbottoms.webp?v=1775913764</g:additional_image_link>
       <g:price>4590.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003434930504</g:item_group_id>
@@ -1806,7 +1806,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/20_4.webp?v=1775924132</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/20_3.webp?v=1775924138</g:additional_image_link>
       <g:price>3755.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003437912392</g:item_group_id>
@@ -1860,7 +1860,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000png_4_1.webp?v=1776029543</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000png_7_1.webp?v=1776029543</g:additional_image_link>
       <g:price>5995.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003440206152</g:item_group_id>
@@ -1940,7 +1940,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000ipng_3.webp?v=1776034837</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000ipng_1.webp?v=1776034837</g:additional_image_link>
       <g:price>9695.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003442237768</g:item_group_id>
@@ -2092,7 +2092,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/NeoX-330RFront.png?v=1775771155</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/NeoX-330R-Back.png?v=1775771165</g:additional_image_link>
       <g:price>3475.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003602932040</g:item_group_id>
@@ -2144,7 +2144,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/NeoX-310G-Back.webp?v=1775771037</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/NeoX-330R-Back.png?v=1775771165</g:additional_image_link>
       <g:price>3395.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003602932040</g:item_group_id>
@@ -2292,7 +2292,7 @@
       <g:link>https://simedge.se/products/simagic-evo-side-mounting-bracket?variant=52862068490568</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MB-S.webp?v=1775692595</g:image_link>
       <g:price>395.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10005825782088</g:item_group_id>
@@ -2486,7 +2486,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Z60_4196.webp?v=1775929553</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Z60_4199.webp?v=1775929558</g:additional_image_link>
       <g:price>545.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10010062094664</g:item_group_id>
@@ -4989,7 +4989,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-sport-steering-wheel-angle-display.webp?v=1780958936</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-sport-steering-wheel-rear.webp?v=1780958958</g:additional_image_link>
       <g:price>4595.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10091228889416</g:item_group_id>
@@ -5013,7 +5013,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-gt-steering-wheel-angle-display_webp.webp?v=1780960120</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-zeus-gt-steering-wheel-rear_webp.webp?v=1780960181</g:additional_image_link>
       <g:price>4795.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10091240423752</g:item_group_id>
@@ -5374,7 +5374,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SHOPIFY_EVO_EDM-2.png?v=1785937000</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/9Nm_QR-A-1.png?v=1785936999</g:additional_image_link>
       <g:price>5490.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10184056308040</g:item_group_id>
@@ -8491,7 +8491,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-haptikmodul-monteringssida.webp?v=1788891726</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p-hpr-haptikmoduler-monterade-pa-pedaler.webp?v=1788891726</g:additional_image_link>
       <g:price>695.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10273259749704</g:item_group_id>
