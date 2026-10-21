@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-10-21T10:45:19.797Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-10-21T10:51:15.107Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -5502,7 +5502,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/REAL-SIMRACING-VPG-Porsche-911-Cup-SIM-WHEEL-CLOSE-SimEdge.webp?v=1786102251</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/REAL-SIMRACING-VPG-Porsche-911-Cup-SIM-WHEEL-SHIFTER-SimEdge.webp?v=1786102251</g:additional_image_link>
       <g:price>21999.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>VPG Sim</g:brand>
       <g:item_group_id>shopify-product-10185483682120</g:item_group_id>
