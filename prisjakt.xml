@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-10-20T04:50:44.521Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-10-21T10:45:19.797Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -2516,7 +2516,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013577871688</g:item_group_id>
       <g:gtin>4251442512736</g:gtin>
-      <g:mpn>NC-SR-AC-011</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>4 kg</g:shipping_weight>
     </item>
@@ -2736,7 +2735,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-hbp-handbrake-usb-rj11-connections-optimized.webp?v=1787496803</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-hbp-handbrake-mounting-positions-optimized.webp?v=1787496803</g:additional_image_link>
       <g:price>1299.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595566408</g:item_group_id>
@@ -3020,7 +3019,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r12-v2-wheelbase-underside-connection-panel.webp?v=1786478451</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r12-v2-wheelbase-rear-view.webp?v=1786478452</g:additional_image_link>
       <g:price>4989.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597073736</g:item_group_id>
@@ -3164,7 +3163,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-ks-pro-gt-wheel-back.webp?v=1776520942</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-ks-pro-gt-wheel-back-right-angle.webp?v=1776520925</g:additional_image_link>
       <g:price>4095.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597565256</g:item_group_id>
@@ -3402,7 +3401,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-300-gt-rear-mounting-plate-and-paddles.webp?v=1786472855</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/conspit-300-gt-control-layout-diagram.webp?v=1786472856</g:additional_image_link>
       <g:price>4799.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013598744904</g:item_group_id>
@@ -3593,7 +3592,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013600219464</g:item_group_id>
       <g:gtin>4251442511456</g:gtin>
-      <g:mpn>NC-SR-RM-001</g:mpn>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16.8 kg</g:shipping_weight>
     </item>
@@ -3805,7 +3803,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-trophy-red-04.jpg?v=1786159834</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-trophy-red-05.jpg?v=1786159835</g:additional_image_link>
       <g:price>6899.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600710984</g:item_group_id>
@@ -3833,7 +3831,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-trophy-red-04.jpg?v=1786159834</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-trophy-red-05.jpg?v=1786159835</g:additional_image_link>
       <g:price>6899.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600710984</g:item_group_id>
@@ -3954,7 +3952,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/convert.webp?v=1776897629</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/convert_1.webp?v=1776897629</g:additional_image_link>
       <g:price>2299.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013601431880</g:item_group_id>
@@ -4027,7 +4025,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-es-steering-wheel-280mm-r5-bundle.webp?v=1789510672</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-sr-p-lite-two-pedal-set-r5-bundle.webp?v=1789510671</g:additional_image_link>
       <g:price>4299.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013601890632</g:item_group_id>
@@ -4075,7 +4073,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-SGP-Sequential-Shifter-3.webp?v=1778290986</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-SGP-Sequential-Shifter-2.webp?v=1778290986</g:additional_image_link>
       <g:price>1599.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602447688</g:item_group_id>
@@ -4550,7 +4548,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SC3-3_1.webp?v=1776168019</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SC3SPORT-3-1.webp?v=1776168025</g:additional_image_link>
       <g:price>14495.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10013604577608</g:item_group_id>
@@ -5231,7 +5229,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Simucube3UltimateWheelBase-SimEdge-3.webp?v=1785630068</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Simucube3UltimateWheelBase-SimEdge-4.webp?v=1785630067</g:additional_image_link>
       <g:price>37899.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10180634706248</g:item_group_id>
@@ -5504,11 +5502,12 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/REAL-SIMRACING-VPG-Porsche-911-Cup-SIM-WHEEL-CLOSE-SimEdge.webp?v=1786102251</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/REAL-SIMRACING-VPG-Porsche-911-Cup-SIM-WHEEL-SHIFTER-SimEdge.webp?v=1786102251</g:additional_image_link>
       <g:price>21999.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>VPG Sim</g:brand>
       <g:item_group_id>shopify-product-10185483682120</g:item_group_id>
       <g:gtin>5065023195053</g:gtin>
+      <g:mpn>VPG-1015-16700</g:mpn>
       <pj:prisjakt_id>16783771</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.03 kg</g:shipping_weight>
