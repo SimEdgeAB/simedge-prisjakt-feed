@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-10-23T05:38:10.353Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-10-24T07:44:33.972Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -1940,7 +1940,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000ipng_3.webp?v=1776034837</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/P1000ipng_1.webp?v=1776034837</g:additional_image_link>
       <g:price>9695.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003442237768</g:item_group_id>
@@ -1992,7 +1992,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p2000-hydraulic-brake-system-close-up.webp?v=1786484032</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p2000-pedal-set-mounted-front-view.webp?v=1786484032</g:additional_image_link>
       <g:price>9490.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10003552600392</g:item_group_id>
@@ -4548,7 +4548,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SC3-3_1.webp?v=1776168019</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/SC3SPORT-3-1.webp?v=1776168025</g:additional_image_link>
       <g:price>14495.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10013604577608</g:item_group_id>
@@ -5229,7 +5229,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Simucube3UltimateWheelBase-SimEdge-3.webp?v=1785630068</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/Simucube3UltimateWheelBase-SimEdge-4.webp?v=1785630067</g:additional_image_link>
       <g:price>37899.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10180634706248</g:item_group_id>
