@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-11-02T07:01:52.700Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-11-03T09:44:54.553Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -2712,7 +2712,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-70mm-quick-release-adapter-rs07-wheel-installation.webp?v=1786550011</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-70mm-quick-release-adapter-rs07-wheelbase-installation.webp?v=1786550011</g:additional_image_link>
       <g:price>699.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595369800</g:item_group_id>
@@ -2801,7 +2801,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-KS-Steering-Wheel-5_68f542cc-e46b-4b0a-9299-3eea566e410b.jpg?v=1786362717</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-KS-Steering-Wheel-6_8208cf92-51b4-41c0-878e-2694f2aefb4a.jpg?v=1786362717</g:additional_image_link>
       <g:price>2889.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595795784</g:item_group_id>
@@ -2823,7 +2823,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/esx-12_inch_mod-1.png?v=1789513121</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/esx-12_inch_mod-2.png?v=1789513121</g:additional_image_link>
       <g:price>899.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595959624</g:item_group_id>
@@ -2907,7 +2907,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-crp2-load-cell-clutch-pedal-angled-view.webp?v=1786474453</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-crp2-load-cell-clutch-pedal-side-view.webp?v=1786494354</g:additional_image_link>
       <g:price>1299.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013596647752</g:item_group_id>
@@ -2928,7 +2928,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-crp2-load-cell-throttle-brake-pedals-front-angle.webp?v=1786528577</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-crp2-load-cell-throttle-brake-pedals-rear-angle.webp?v=1786528577</g:additional_image_link>
       <g:price>4599.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013596680520</g:item_group_id>
@@ -3064,7 +3064,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-ay210-force-feedback-yoke-base-as011-top-view_9d6129ea-ea68-42f1-bc63-5e96a7ee91b6.webp?v=1786564418</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-ay210-force-feedback-yoke-base-as011-side-profile.webp?v=1786564418</g:additional_image_link>
       <g:price>8899.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597204808</g:item_group_id>
@@ -4046,7 +4046,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-HGP-Shifter-5.webp?v=1778292390</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/MOZA-HGP-Shifter-4.webp?v=1778292390</g:additional_image_link>
       <g:price>1899.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602120008</g:item_group_id>
@@ -4188,7 +4188,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/CRP2inversionkit2.webp?v=1776775804</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/CRP2inversionphysicalpedal2.webp?v=1776775792</g:additional_image_link>
       <g:price>2299.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603037512</g:item_group_id>
@@ -4255,7 +4255,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r21-ultra-21nm-direct-drive-wheel-base-top-front-left.webp?v=1789508917</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r21-ultra-21nm-direct-drive-wheel-base-rear-connectivity.webp?v=1789508917</g:additional_image_link>
       <g:price>8095.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603332424</g:item_group_id>
@@ -8510,7 +8510,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r16-ultra-16nm-direct-drive-wheel-base-rear-right-connectivity.webp?v=1789507496</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/moza-r16-ultra-16nm-direct-drive-wheel-base-rear-left-connectivity.webp?v=1789507496</g:additional_image_link>
       <g:price>6399.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10274674901320</g:item_group_id>
