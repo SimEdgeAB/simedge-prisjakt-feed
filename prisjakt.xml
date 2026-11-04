@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-11-03T09:44:54.553Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-11-04T06:42:10.631Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -1448,7 +1448,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/18Nm_6..webp?v=1775387920</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/18Nm_4.webp?v=1775387920</g:additional_image_link>
       <g:price>9495.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10001306976584</g:item_group_id>
@@ -1475,7 +1475,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/6_1_85058e88-1c18-47fa-998b-bf14c86dfe77.webp?v=1775467402</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/0_c9e4415d-0f2c-4620-8b06-02a1c69f2e0a.webp?v=1775467402</g:additional_image_link>
       <g:price>7195.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simagic</g:brand>
       <g:item_group_id>shopify-product-10001944346952</g:item_group_id>
@@ -2995,7 +2995,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/r9_4.webp?v=1785936998</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/r9_2.webp?v=1785936998</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/r9_5.webp?v=1785936998</g:additional_image_link>
-      <g:price>3599.00 SEK</g:price>
+      <g:price>4099.00 SEK</g:price>
       <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Moza Racing</g:brand>
