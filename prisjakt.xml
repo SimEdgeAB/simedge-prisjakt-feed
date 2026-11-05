@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-11-04T06:42:10.631Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-11-05T06:34:07.692Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -3775,7 +3775,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-racing-suede-immersive-simracing_7ce05d3d-1ebc-44a7-929a-9cd263b77309.jpg?v=1790254550</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-evolution-racing-suede-ergonomic-seat_39e82725-74a6-4d15-a5f6-3a47833a0972.jpg?v=1790254550</g:additional_image_link>
       <g:price>3799.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600678216</g:item_group_id>
@@ -3881,7 +3881,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-black-actifit-folded-storage_a930168b-f7b4-4055-904d-35bfe590213f.jpg?v=1790254550</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-black-actifit-autentisk-racing-sidovy.webp?v=1790267114</g:additional_image_link>
       <g:price>2699.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600776520</g:item_group_id>
