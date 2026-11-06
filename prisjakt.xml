@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-11-05T06:59:29.335Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-11-06T13:53:58.927Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -3908,7 +3908,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-logitech-g-simracing-cockpit-living-room_9e4ad4dd-ae0e-493e-8407-171835b84621.jpg?v=1790253497</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-logitech-g-folded-storage_0c6bc1d1-f9b7-4b1f-9705-3953f177b766.jpg?v=1790253502</g:additional_image_link>
       <g:price>3499.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600907592</g:item_group_id>
@@ -4029,7 +4029,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013601890632</g:item_group_id>
       <g:gtin>6973137270339</g:gtin>
-      <g:mpn>RS20</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>12.638 kg</g:shipping_weight>
     </item>
@@ -5295,7 +5294,7 @@
       <g:google_product_category>543591</g:google_product_category>
       <g:description>Simagic P500 är ett robust och justerbart tvåpedalsset för simracing med separat gas och broms. Bromsen kombinerar en load cell på upp till 100 kg med Hall-vinkelsensor, medan gaspedalen använder Hall-sensor för jämn och kontaktfri registrering.Med 12-bitars upplösning, utbytbara fjädrar och flera mekaniska justeringar kan motstånd, vinkel och position anpassas efter både körstil och cockpit. De anodiserade, CNC-bearbetade pedalplattorna i aluminium ger en stabil och slitstark konstruktion.Kontroll och känslaLoad cell-bromsen mäter kraften du applicerar, vilket gör det enklare att bromsa konsekvent och bygga muskelminne. Linjäritet och bromskraft finjusteras i SimPro Manager.Anslutning och utbyggnadP500 ansluts till PC via USB eller genom en kompatibel SIMAGIC-rattbas. Setet kan kompletteras med C-P500-koppling och SIMAGICs haptiska P-HPR- eller P-HPR GT-moduler. Haptik kräver separat P-APS-strömförsörjning.</g:description>
       <g:link>https://simedge.se/products/simagic-p500-2-pedal-set?variant=53634766504264</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p500-load-cell-pedals-two-pedal-set.webp?v=1790782588</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p500-load-cell-pedals-two-pedal-set.webp?v=1793864715</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p500-load-cell-pedals-front-view.webp?v=1790805007</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p500-load-cell-pedals-underside-view.webp?v=1790805007</g:additional_image_link>
       <g:price>2049.00 SEK</g:price>
@@ -8767,7 +8766,7 @@
       <g:google_product_category>8008</g:google_product_category>
       <g:description>Simagic C-P500 bygger ut P500 från två till tre pedaler med en kopplingspedal som är utvecklad särskilt för samma pedalplattform.Motstånd, vinkel, position och linjäritet kan anpassas efter körstil och cockpit. Den kontaktfria Hall-sensorn ger jämn avläsning med 12-bitars upplösning, medan den anodiserade, CNC-bearbetade aluminiumkonstruktionen matchar P500-setet.Utvecklad för P500C-P500 integreras med Simagic P500 och ger en enhetlig montering och känsla. Kopplingspedalen kan även användas med Simagic P-HPR eller P-HPR GT haptisk pedalreaktor; haptik kräver separat P-APS-strömförsörjning.</g:description>
       <g:link>https://simedge.se/products/simagic-p500-clutch?variant=54065304437064</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-c-p500-clutch-pedal-side-view.webp?v=1790823925</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-c-p500-clutch-pedal-side-view.webp?v=1793864714</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-c-p500-clutch-pedal-front-view.webp?v=1790823925</g:additional_image_link>
       <g:price>849.00 SEK</g:price>
       <g:availability>in_stock</g:availability>
@@ -8786,7 +8785,7 @@
       <g:google_product_category>543591</g:google_product_category>
       <g:description>Simagic P700 är ett justerbart tvåpedalsset med gas och broms för PC-baserad simracing. Bromsen kombinerar en load cell på upp till 150 kg med Hall-sensor, så att du kan välja mellan kraft- och positionsbaserad inbromsning.Med 35 bromsinställningar och justerbar pedalhöjd, vinkel, modulplacering, linjäritet och bromskraft kan setet anpassas till både förare och cockpit. Konstruktionen i höghållfast stål och hälplattan i silikon ger en stabil plattform med bra grepp.Bygg vidare när du villP700 kan kompletteras med C-P700-kopplingspedalen samt Simagic P-HPR eller P-HPR GT. Reaktorn monteras med rätt adapterplatta enligt P700-manualen och ansluts till pedalernas separata haptikportar. Haptik kräver en separat P-APS-strömförsörjning.</g:description>
       <g:link>https://simedge.se/products/simagic-p700-load-cell-pedaler-2-pedalsset?variant=54179789275464</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p700-two-pedal-set-angle-view.webp?v=1790824145</g:image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p700-two-pedal-set-angle-view.webp?v=1793864713</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p700-load-cell-pedals-front-view.webp?v=1790824145</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p700-pedals-with-haptic-modules-rear-angle.webp?v=1790824145</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simagic-p700-pedal-mechanism-rear-view.webp?v=1790824145</g:additional_image_link>
