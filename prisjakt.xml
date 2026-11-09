@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-11-07T09:31:12.136Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-11-09T07:28:08.549Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -4591,7 +4591,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EXTENSION-3.webp?v=1776350403</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/EXTENSION-2.webp?v=1776350403</g:additional_image_link>
       <g:price>2249.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10013604741448</g:item_group_id>
@@ -8574,7 +8574,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simucube-activepedal-pro-pedal-arm-linkage.webp?v=1789437144</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/simucube-activepedal-pro-upper-mechanism-detail.webp?v=1789437144</g:additional_image_link>
       <g:price>19495.00 SEK</g:price>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10281000010056</g:item_group_id>
