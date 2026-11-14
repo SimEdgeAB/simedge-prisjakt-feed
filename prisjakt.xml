@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-11-13T12:09:07.674Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-11-14T10:04:11.522Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -2690,7 +2690,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat_formula_instinct_f1_slider_004_7cae794f-ffe2-4efa-8f9a-054dee51d156.webp?v=1785936999</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat_formula_instinct_f1_slider_005.webp?v=1785936999</g:additional_image_link>
       <g:price>7199.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013595205960</g:item_group_id>
@@ -3880,7 +3880,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-black-actifit-folded-storage_a930168b-f7b4-4055-904d-35bfe590213f.jpg?v=1790254550</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-black-actifit-autentisk-racing-sidovy.webp?v=1790267114</g:additional_image_link>
       <g:price>2699.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600776520</g:item_group_id>
@@ -3907,7 +3907,7 @@
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-logitech-g-simracing-cockpit-living-room_9e4ad4dd-ae0e-493e-8407-171835b84621.jpg?v=1790253497</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/playseat-challenge-x-logitech-g-folded-storage_0c6bc1d1-f9b7-4b1f-9705-3953f177b766.jpg?v=1790253502</g:additional_image_link>
       <g:price>3499.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600907592</g:item_group_id>
@@ -3950,7 +3950,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/convert.webp?v=1776897629</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0956/5405/2168/files/convert_1.webp?v=1776897629</g:additional_image_link>
       <g:price>2299.00 SEK</g:price>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013601431880</g:item_group_id>
