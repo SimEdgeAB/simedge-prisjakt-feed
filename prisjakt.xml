@@ -2,7 +2,7 @@
 <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
   <channel>
     <title>SimEdge – Prisjakt produktfeed</title>
-    <description>Daterad produktfeed från Shopify-respons 2026-11-14T10:04:11.522Z.</description>
+    <description>Daterad produktfeed från Shopify-respons 2026-11-15T23:33:25.438Z.</description>
     <link>https://simedge.se</link>
     <item>
       <g:id>shopify-variant-52700043018568</g:id>
@@ -2541,7 +2541,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013578920264</g:item_group_id>
       <g:gtin>8717496871466</g:gtin>
-      <g:mpn>REM.00004</g:mpn>
       <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>22.5 kg</g:shipping_weight>
     </item>
@@ -2568,7 +2567,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013578953032</g:item_group_id>
       <g:gtin>8717496872760</g:gtin>
-      <g:mpn>REP.00262</g:mpn>
       <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>22.5 kg</g:shipping_weight>
     </item>
@@ -2592,7 +2590,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013579149640</g:item_group_id>
       <g:gtin>8717496873279</g:gtin>
-      <g:mpn>FO.00336</g:mpn>
       <pj:prisjakt_id>15914027</pj:prisjakt_id>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16.5 kg</g:shipping_weight>
@@ -2612,7 +2609,6 @@
       <g:brand>Sabelt Sim Racing</g:brand>
       <g:item_group_id>shopify-product-10013586784584</g:item_group_id>
       <g:gtin>8059772411721</g:gtin>
-      <g:mpn>00319-03-02-BLK-M</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
@@ -2631,7 +2627,6 @@
       <g:brand>Sabelt Sim Racing</g:brand>
       <g:item_group_id>shopify-product-10013586784584</g:item_group_id>
       <g:gtin>8059772411714</g:gtin>
-      <g:mpn>00319-03-02-BLK-L</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
@@ -2651,7 +2646,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013594124616</g:item_group_id>
       <g:gtin>4251442511074</g:gtin>
-      <g:mpn>NC-SR-AC-001</g:mpn>
       <pj:prisjakt_id>14123498</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>6.6 kg</g:shipping_weight>
@@ -2695,7 +2689,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013595205960</g:item_group_id>
       <g:gtin>8717496873255</g:gtin>
-      <g:mpn>FO.00334</g:mpn>
       <pj:prisjakt_id>13944024</pj:prisjakt_id>
       <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>23 kg</g:shipping_weight>
@@ -2716,7 +2709,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595369800</g:item_group_id>
       <g:gtin>6973137270490</g:gtin>
-      <g:mpn>RS07</g:mpn>
       <pj:prisjakt_id>12951615</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1 kg</g:shipping_weight>
@@ -2738,7 +2730,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595566408</g:item_group_id>
       <g:gtin>6973137270421</g:gtin>
-      <g:mpn>RS31</g:mpn>
       <pj:prisjakt_id>12704900</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.7 kg</g:shipping_weight>
@@ -2760,7 +2751,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595664712</g:item_group_id>
       <g:gtin>6973137270438</g:gtin>
-      <g:mpn>RS032</g:mpn>
       <g:shipping_label>ej_klassificerad</g:shipping_label>
       <g:shipping_weight>1.2 kg</g:shipping_weight>
     </item>
@@ -2781,7 +2771,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595763016</g:item_group_id>
       <g:gtin>6973137270506</g:gtin>
-      <g:mpn>RS050</g:mpn>
       <pj:prisjakt_id>13646764</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1 kg</g:shipping_weight>
@@ -2805,7 +2794,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595795784</g:item_group_id>
       <g:gtin>6973137270254</g:gtin>
-      <g:mpn>RS047</g:mpn>
       <pj:prisjakt_id>11637378</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2.6 kg</g:shipping_weight>
@@ -2827,7 +2815,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013595959624</g:item_group_id>
       <g:gtin>6973137270445</g:gtin>
-      <g:mpn>RS046</g:mpn>
       <g:shipping_label>ej_klassificerad</g:shipping_label>
       <g:shipping_weight>1 kg</g:shipping_weight>
     </item>
@@ -2847,7 +2834,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013596025160</g:item_group_id>
       <g:gtin>6973137270520</g:gtin>
-      <g:mpn>RS055</g:mpn>
       <pj:prisjakt_id>14035007</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.973 kg</g:shipping_weight>
@@ -2869,7 +2855,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013596221768</g:item_group_id>
       <g:gtin>6973137271336</g:gtin>
-      <g:mpn>AS019</g:mpn>
       <pj:prisjakt_id>16041514</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>8 kg</g:shipping_weight>
@@ -2891,7 +2876,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013596451144</g:item_group_id>
       <g:gtin>6973137270681</g:gtin>
-      <g:mpn>AS006</g:mpn>
       <pj:prisjakt_id>14384589</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1 kg</g:shipping_weight>
@@ -2911,7 +2895,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013596647752</g:item_group_id>
       <g:gtin>6973137270582</g:gtin>
-      <g:mpn>RS067</g:mpn>
       <pj:prisjakt_id>14384585</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
@@ -2932,7 +2915,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013596680520</g:item_group_id>
       <g:gtin>6973137270575</g:gtin>
-      <g:mpn>RS066</g:mpn>
       <pj:prisjakt_id>14384543</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>9 kg</g:shipping_weight>
@@ -2954,7 +2936,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013596713288</g:item_group_id>
       <g:gtin>6973137270643</g:gtin>
-      <g:mpn>AS005</g:mpn>
       <pj:prisjakt_id>14085083</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.22 kg</g:shipping_weight>
@@ -2976,7 +2957,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013596811592</g:item_group_id>
       <g:gtin>6973137270605</g:gtin>
-      <g:mpn>AS002</g:mpn>
       <pj:prisjakt_id>14085128</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
@@ -3000,7 +2980,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597040968</g:item_group_id>
       <g:gtin>6973137270810</g:gtin>
-      <g:mpn>RS080</g:mpn>
       <pj:prisjakt_id>14683852</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>5.92 kg</g:shipping_weight>
@@ -3022,7 +3001,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597073736</g:item_group_id>
       <g:gtin>6973137270827</g:gtin>
-      <g:mpn>RS081</g:mpn>
       <pj:prisjakt_id>14807874</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>7.5 kg</g:shipping_weight>
@@ -3045,7 +3023,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597172040</g:item_group_id>
       <g:gtin>6973137270957</g:gtin>
-      <g:mpn>AS017</g:mpn>
       <pj:prisjakt_id>15553205</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>3.35 kg</g:shipping_weight>
@@ -3068,7 +3045,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597204808</g:item_group_id>
       <g:gtin>6973137270780</g:gtin>
-      <g:mpn>AS011</g:mpn>
       <pj:prisjakt_id>14807912</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>8 kg</g:shipping_weight>
@@ -3093,7 +3069,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597237576</g:item_group_id>
       <g:gtin>6973137270797</g:gtin>
-      <g:mpn>AS012</g:mpn>
       <pj:prisjakt_id>14814560</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.3 kg</g:shipping_weight>
@@ -3115,7 +3090,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597270344</g:item_group_id>
       <g:gtin>6973137270766</g:gtin>
-      <g:mpn>AS009</g:mpn>
       <pj:prisjakt_id>14814559</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.68 kg</g:shipping_weight>
@@ -3143,7 +3117,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597368648</g:item_group_id>
       <g:gtin>6973137271275</g:gtin>
-      <g:mpn>RS096</g:mpn>
       <pj:prisjakt_id>16442504</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>5 kg</g:shipping_weight>
@@ -3166,7 +3139,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597565256</g:item_group_id>
       <g:gtin>6973137271282</g:gtin>
-      <g:mpn>RS095</g:mpn>
       <pj:prisjakt_id>16041513</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>3 kg</g:shipping_weight>
@@ -3190,7 +3162,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013597729096</g:item_group_id>
       <g:gtin>6973137271268</g:gtin>
-      <g:mpn>RS097</g:mpn>
       <pj:prisjakt_id>16041519</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>3.96 kg</g:shipping_weight>
@@ -3326,7 +3297,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013598581064</g:item_group_id>
       <g:gtin>6977068960079</g:gtin>
-      <g:mpn>CP102</g:mpn>
       <pj:prisjakt_id>15129155</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>7.9 kg</g:shipping_weight>
@@ -3352,7 +3322,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013598646600</g:item_group_id>
       <g:gtin>6977068960444</g:gtin>
-      <g:mpn>CP104</g:mpn>
       <pj:prisjakt_id>15129130</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.24 kg</g:shipping_weight>
@@ -3376,7 +3345,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013598679368</g:item_group_id>
       <g:gtin>6977068960451</g:gtin>
-      <g:mpn>CP105</g:mpn>
       <pj:prisjakt_id>15129151</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.4 kg</g:shipping_weight>
@@ -3404,7 +3372,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013598744904</g:item_group_id>
       <g:gtin>6977068960536</g:gtin>
-      <g:mpn>CP107</g:mpn>
       <pj:prisjakt_id>15129150</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.15 kg</g:shipping_weight>
@@ -3425,7 +3392,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013598810440</g:item_group_id>
       <g:gtin>6977068960611</g:gtin>
-      <g:mpn>CP109</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1 kg</g:shipping_weight>
     </item>
@@ -3445,7 +3411,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013598843208</g:item_group_id>
       <g:gtin>6977068960635</g:gtin>
-      <g:mpn>CP110</g:mpn>
       <pj:prisjakt_id>15945874</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1 kg</g:shipping_weight>
@@ -3464,7 +3429,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013598974280</g:item_group_id>
       <g:gtin>6977068960512</g:gtin>
-      <g:mpn>CP114</g:mpn>
       <pj:prisjakt_id>15129167</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1 kg</g:shipping_weight>
@@ -3488,7 +3452,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013599072584</g:item_group_id>
       <g:gtin>6977068960475</g:gtin>
-      <g:mpn>CP302</g:mpn>
       <pj:prisjakt_id>15129142</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>8 kg</g:shipping_weight>
@@ -3507,7 +3470,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013599105352</g:item_group_id>
       <g:gtin>6977068960147</g:gtin>
-      <g:mpn>CP304</g:mpn>
       <pj:prisjakt_id>15129144</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
@@ -3527,7 +3489,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013599203656</g:item_group_id>
       <g:gtin>6977068960598</g:gtin>
-      <g:mpn>CP307</g:mpn>
       <pj:prisjakt_id>15483519</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>3.8 kg</g:shipping_weight>
@@ -3547,7 +3508,6 @@
       <g:brand>Sabelt Sim Racing</g:brand>
       <g:item_group_id>shopify-product-10013599498568</g:item_group_id>
       <g:gtin>8059772411769</g:gtin>
-      <g:mpn>00319-03-02-WHI-M</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
@@ -3566,7 +3526,6 @@
       <g:brand>Sabelt Sim Racing</g:brand>
       <g:item_group_id>shopify-product-10013599498568</g:item_group_id>
       <g:gtin>8059772411752</g:gtin>
-      <g:mpn>00319-03-02-WHI-L</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.5 kg</g:shipping_weight>
     </item>
@@ -3610,7 +3569,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013600317768</g:item_group_id>
       <g:gtin>4251442511142</g:gtin>
-      <g:mpn>NC-SR-AC-003</g:mpn>
       <pj:prisjakt_id>14123509</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>5.1 kg</g:shipping_weight>
@@ -3631,7 +3589,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013600350536</g:item_group_id>
       <g:gtin>4251442511135</g:gtin>
-      <g:mpn>NC-SR-AC-004</g:mpn>
       <pj:prisjakt_id>14449402</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>5 kg</g:shipping_weight>
@@ -3656,7 +3613,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013600416072</g:item_group_id>
       <g:gtin>4251442511111</g:gtin>
-      <g:mpn>NC-SR-RR-002</g:mpn>
       <pj:prisjakt_id>14088094</pj:prisjakt_id>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>27.17 kg</g:shipping_weight>
@@ -3681,7 +3637,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013600481608</g:item_group_id>
       <g:gtin>4251442511098</g:gtin>
-      <g:mpn>NC-SR-MS-001</g:mpn>
       <pj:prisjakt_id>14088098</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>9.88 kg</g:shipping_weight>
@@ -3701,7 +3656,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013600514376</g:item_group_id>
       <g:gtin>4251442511081</g:gtin>
-      <g:mpn>NC-SR-AC-002</g:mpn>
       <pj:prisjakt_id>14449386</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.41 kg</g:shipping_weight>
@@ -3726,7 +3680,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013600579912</g:item_group_id>
       <g:gtin>4251442511067</g:gtin>
-      <g:mpn>NC-SR-BS-001</g:mpn>
       <pj:prisjakt_id>14088093</pj:prisjakt_id>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>10.4 kg</g:shipping_weight>
@@ -3751,7 +3704,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10013600612680</g:item_group_id>
       <g:gtin>4251442511050</g:gtin>
-      <g:mpn>NC-SR-RR-001</g:mpn>
       <pj:prisjakt_id>14088096</pj:prisjakt_id>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>26.75 kg</g:shipping_weight>
@@ -3779,7 +3731,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600678216</g:item_group_id>
       <g:gtin>8717496871480</g:gtin>
-      <g:mpn>REM.00008</g:mpn>
       <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>22.5 kg</g:shipping_weight>
     </item>
@@ -3806,7 +3757,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600710984</g:item_group_id>
       <g:gtin>8717496872975</g:gtin>
-      <g:mpn>RAP.00304</g:mpn>
       <pj:prisjakt_id>5949372</pj:prisjakt_id>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16 kg</g:shipping_weight>
@@ -3834,7 +3784,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600710984</g:item_group_id>
       <g:gtin>8717496873033</g:gtin>
-      <g:mpn>RAP.00314</g:mpn>
       <pj:prisjakt_id>5949372</pj:prisjakt_id>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16 kg</g:shipping_weight>
@@ -3857,7 +3806,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600743752</g:item_group_id>
       <g:gtin>8717496871978</g:gtin>
-      <g:mpn>RSP.00110</g:mpn>
       <pj:prisjakt_id>5306012</pj:prisjakt_id>
       <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>38 kg</g:shipping_weight>
@@ -3885,7 +3833,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600776520</g:item_group_id>
       <g:gtin>8717496873026</g:gtin>
-      <g:mpn>RC.00312</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>13 kg</g:shipping_weight>
     </item>
@@ -3912,7 +3859,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600907592</g:item_group_id>
       <g:gtin>8717496872791</g:gtin>
-      <g:mpn>G.00248</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>13.5 kg</g:shipping_weight>
     </item>
@@ -3935,7 +3881,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013600973128</g:item_group_id>
       <g:gtin>8717496873101</g:gtin>
-      <g:mpn>G.00320</g:mpn>
       <pj:prisjakt_id>13471046</pj:prisjakt_id>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>16 kg</g:shipping_weight>
@@ -3955,7 +3900,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013601431880</g:item_group_id>
       <g:gtin>8717496872753</g:gtin>
-      <g:mpn>R.AC.00260</g:mpn>
       <pj:prisjakt_id>13605696</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2.2 kg</g:shipping_weight>
@@ -3978,7 +3922,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013601530184</g:item_group_id>
       <g:gtin>8717496872593</g:gtin>
-      <g:mpn>PFI.00234</g:mpn>
       <pj:prisjakt_id>5949365</pj:prisjakt_id>
       <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>50 kg</g:shipping_weight>
@@ -4005,7 +3948,6 @@
       <g:brand>Playseat</g:brand>
       <g:item_group_id>shopify-product-10013601595720</g:item_group_id>
       <g:gtin>8717496873248</g:gtin>
-      <g:mpn>PFI.00332</g:mpn>
       <pj:prisjakt_id>13540905</pj:prisjakt_id>
       <g:shipping_label>pall</g:shipping_label>
       <g:shipping_weight>50 kg</g:shipping_weight>
@@ -4049,7 +3991,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602120008</g:item_group_id>
       <g:gtin>6973137270476</g:gtin>
-      <g:mpn>RS039</g:mpn>
       <pj:prisjakt_id>12700655</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.8 kg</g:shipping_weight>
@@ -4075,7 +4016,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602447688</g:item_group_id>
       <g:gtin>6973137270544</g:gtin>
-      <g:mpn>RS059</g:mpn>
       <pj:prisjakt_id>13237014</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2.5 kg</g:shipping_weight>
@@ -4098,7 +4038,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602775368</g:item_group_id>
       <g:gtin>6973137270650</g:gtin>
-      <g:mpn>RS070</g:mpn>
       <pj:prisjakt_id>14544973</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.95 kg</g:shipping_weight>
@@ -4120,7 +4059,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602840904</g:item_group_id>
       <g:gtin>6973137270742</g:gtin>
-      <g:mpn>AS008</g:mpn>
       <pj:prisjakt_id>14640465</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2.1 kg</g:shipping_weight>
@@ -4143,7 +4081,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602939208</g:item_group_id>
       <g:gtin>6973137270735</g:gtin>
-      <g:mpn>RS076</g:mpn>
       <pj:prisjakt_id>15241808</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>12 kg</g:shipping_weight>
@@ -4165,7 +4102,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013602971976</g:item_group_id>
       <g:gtin>6973137270704</g:gtin>
-      <g:mpn>RS073</g:mpn>
       <pj:prisjakt_id>14384606</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1 kg</g:shipping_weight>
@@ -4191,7 +4127,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603037512</g:item_group_id>
       <g:gtin>6973137270728</g:gtin>
-      <g:mpn>RS075</g:mpn>
       <pj:prisjakt_id>14549184</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>7.3 kg</g:shipping_weight>
@@ -4213,7 +4148,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603201352</g:item_group_id>
       <g:gtin>6973137270629</g:gtin>
-      <g:mpn>AS004</g:mpn>
       <pj:prisjakt_id>14384583</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
@@ -4235,7 +4169,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603266888</g:item_group_id>
       <g:gtin>6973137270568</g:gtin>
-      <g:mpn>AS001</g:mpn>
       <pj:prisjakt_id>14085081</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>4.5 kg</g:shipping_weight>
@@ -4258,7 +4191,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603332424</g:item_group_id>
       <g:gtin>6973137271350</g:gtin>
-      <g:mpn>RS090</g:mpn>
       <pj:prisjakt_id>15513381</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>9 kg</g:shipping_weight>
@@ -4280,7 +4212,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603397960</g:item_group_id>
       <g:gtin>6973137270803</g:gtin>
-      <g:mpn>RS078</g:mpn>
       <pj:prisjakt_id>14709185</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
@@ -4305,7 +4236,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603430728</g:item_group_id>
       <g:gtin>6973137270773</g:gtin>
-      <g:mpn>RS079</g:mpn>
       <pj:prisjakt_id>14709196</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1 kg</g:shipping_weight>
@@ -4327,7 +4257,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603758408</g:item_group_id>
       <g:gtin>6973137270872</g:gtin>
-      <g:mpn>AS013</g:mpn>
       <pj:prisjakt_id>14814567</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.308 kg</g:shipping_weight>
@@ -4349,7 +4278,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603856712</g:item_group_id>
       <g:gtin>6973137270834</g:gtin>
-      <g:mpn>RS082</g:mpn>
       <pj:prisjakt_id>15452007</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>14 kg</g:shipping_weight>
@@ -4371,7 +4299,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603889480</g:item_group_id>
       <g:gtin>6973137270926</g:gtin>
-      <g:mpn>AS014</g:mpn>
       <pj:prisjakt_id>15761916</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>3 kg</g:shipping_weight>
@@ -4393,7 +4320,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013603987784</g:item_group_id>
       <g:gtin>6973137271343</g:gtin>
-      <g:mpn>RS091</g:mpn>
       <pj:prisjakt_id>15423663</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>9.1 kg</g:shipping_weight>
@@ -4417,7 +4343,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013604053320</g:item_group_id>
       <g:gtin>6973137271329</g:gtin>
-      <g:mpn>RS093</g:mpn>
       <pj:prisjakt_id>16042036</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>3.9 kg</g:shipping_weight>
@@ -4439,7 +4364,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013604086088</g:item_group_id>
       <g:gtin>6973137271367</g:gtin>
-      <g:mpn>AS018</g:mpn>
       <pj:prisjakt_id>16184003</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.9 kg</g:shipping_weight>
@@ -4459,7 +4383,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10013604151624</g:item_group_id>
       <g:gtin>6973137270841</g:gtin>
-      <g:mpn>RS083</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
     </item>
@@ -4482,7 +4405,6 @@
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10013604348232</g:item_group_id>
       <g:gtin>6430082360152</g:gtin>
-      <g:mpn>SCMOUNT</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.48 kg</g:shipping_weight>
     </item>
@@ -4683,7 +4605,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013604970824</g:item_group_id>
       <g:gtin>6977068960062</g:gtin>
-      <g:mpn>CP101</g:mpn>
       <pj:prisjakt_id>15129166</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>6 kg</g:shipping_weight>
@@ -4702,7 +4623,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013605036360</g:item_group_id>
       <g:gtin>6977068960437</g:gtin>
-      <g:mpn>CP103</g:mpn>
       <pj:prisjakt_id>15129143</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
@@ -4730,7 +4650,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013605134664</g:item_group_id>
       <g:gtin>6977068960093</g:gtin>
-      <g:mpn>CP106</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.4 kg</g:shipping_weight>
     </item>
@@ -4754,7 +4673,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013605200200</g:item_group_id>
       <g:gtin>6977068960130</g:gtin>
-      <g:mpn>CP108</g:mpn>
       <pj:prisjakt_id>15483559</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.1 kg</g:shipping_weight>
@@ -4778,7 +4696,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013605331272</g:item_group_id>
       <g:gtin>6977068960048</g:gtin>
-      <g:mpn>CP112</g:mpn>
       <pj:prisjakt_id>15129135</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
@@ -4800,7 +4717,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013605364040</g:item_group_id>
       <g:gtin>6977068960055</g:gtin>
-      <g:mpn>CP113</g:mpn>
       <pj:prisjakt_id>15129156</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.04 kg</g:shipping_weight>
@@ -4820,7 +4736,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013605429576</g:item_group_id>
       <g:gtin>6977068960307</g:gtin>
-      <g:mpn>CP115</g:mpn>
       <pj:prisjakt_id>15129133</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.224 kg</g:shipping_weight>
@@ -4839,7 +4754,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013605462344</g:item_group_id>
       <g:gtin>6977068960468</g:gtin>
-      <g:mpn>CP301</g:mpn>
       <pj:prisjakt_id>15129161</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
@@ -4861,7 +4775,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013605560648</g:item_group_id>
       <g:gtin>6977068960024</g:gtin>
-      <g:mpn>CP305</g:mpn>
       <pj:prisjakt_id>15129141</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>6.5 kg</g:shipping_weight>
@@ -4888,7 +4801,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10013605593416</g:item_group_id>
       <g:gtin>6977068960017</g:gtin>
-      <g:mpn>CP306</g:mpn>
       <pj:prisjakt_id>15129157</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>9 kg</g:shipping_weight>
@@ -4908,7 +4820,6 @@
       <g:brand>Sabelt Sim Racing</g:brand>
       <g:item_group_id>shopify-product-10013605822792</g:item_group_id>
       <g:gtin>8059772411578</g:gtin>
-      <g:mpn>00319-02-01-BLK-S</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
@@ -4927,7 +4838,6 @@
       <g:brand>Sabelt Sim Racing</g:brand>
       <g:item_group_id>shopify-product-10013605822792</g:item_group_id>
       <g:gtin>8059772411561</g:gtin>
-      <g:mpn>00319-02-01-BLK-M</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
     </item>
@@ -4946,7 +4856,6 @@
       <g:brand>Sabelt Sim Racing</g:brand>
       <g:item_group_id>shopify-product-10013605822792</g:item_group_id>
       <g:gtin>8059772411554</g:gtin>
-      <g:mpn>00319-02-01-BLK-L</g:mpn>
       <pj:prisjakt_id>16856320</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
@@ -4966,7 +4875,6 @@
       <g:brand>Sabelt Sim Racing</g:brand>
       <g:item_group_id>shopify-product-10013605822792</g:item_group_id>
       <g:gtin>8059772411585</g:gtin>
-      <g:mpn>00319-02-01-BLK-XL</g:mpn>
       <pj:prisjakt_id>16869820</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>0.5 kg</g:shipping_weight>
@@ -5256,7 +5164,6 @@
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10180634739016</g:item_group_id>
       <g:gtin>6430082360527</g:gtin>
-      <g:mpn>SCVALO-SC3-AL</g:mpn>
       <pj:prisjakt_id>15461211</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2.1 kg</g:shipping_weight>
@@ -5281,7 +5188,6 @@
       <g:brand>Simucube</g:brand>
       <g:item_group_id>shopify-product-10180634739016</g:item_group_id>
       <g:gtin>6430082360534</g:gtin>
-      <g:mpn>SCVALO-SC3-LE</g:mpn>
       <pj:prisjakt_id>15461211</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>2.1 kg</g:shipping_weight>
@@ -5504,7 +5410,6 @@
       <g:brand>VPG Sim</g:brand>
       <g:item_group_id>shopify-product-10185483682120</g:item_group_id>
       <g:gtin>5065023195053</g:gtin>
-      <g:mpn>VPG-1015-16700</g:mpn>
       <pj:prisjakt_id>16783771</pj:prisjakt_id>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>1.03 kg</g:shipping_weight>
@@ -5652,7 +5557,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10200463966536</g:item_group_id>
       <g:gtin>4251442514129</g:gtin>
-      <g:mpn>NC-SR-AC-015</g:mpn>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>2 kg</g:shipping_weight>
     </item>
@@ -5676,7 +5580,6 @@
       <g:brand>Nitro Concepts</g:brand>
       <g:item_group_id>shopify-product-10200463999304</g:item_group_id>
       <g:gtin>4251442514815</g:gtin>
-      <g:mpn>NC-SR-BS-002</g:mpn>
       <g:shipping_label>skrymmande</g:shipping_label>
       <g:shipping_weight>10.4 kg</g:shipping_weight>
     </item>
@@ -8513,7 +8416,6 @@
       <g:brand>Moza Racing</g:brand>
       <g:item_group_id>shopify-product-10274674901320</g:item_group_id>
       <g:gtin>6973137271435</g:gtin>
-      <g:mpn>RS101</g:mpn>
       <g:shipping_label>ej_klassificerad</g:shipping_label>
       <g:shipping_weight>8 kg</g:shipping_weight>
     </item>
@@ -8820,7 +8722,6 @@
       <g:brand>Conspit</g:brand>
       <g:item_group_id>shopify-product-10335372509512</g:item_group_id>
       <g:gtin>6977068960567</g:gtin>
-      <g:mpn>CP118</g:mpn>
       <g:shipping_label>standardpaket</g:shipping_label>
       <g:shipping_weight>5 kg</g:shipping_weight>
     </item>
